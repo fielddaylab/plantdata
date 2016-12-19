@@ -1,0 +1,1847 @@
+ItemID;CommonName;Genus;Species;Family
+616;velvetleaf;Abutilon;theophrasti;Malvaceae
+1625;three-seed-mercury, slender;Acalypha;gracilens;Euphorbiaceae
+1284;three-seed-mercury, common;Acalypha;rhomboidea;Euphorbiaceae
+1215;maple, amur;Acer;ginnala;Sapindaceae
+0;box-elder;Acer;negundo;Sapindaceae
+1109;maple, black;Acer;nigrum;Sapindaceae
+1222;maple, striped;Acer;pensylvanicum;Sapindaceae
+353;maple, Norway;Acer;platanoides;Sapindaceae
+1111;maple, red;Acer;rubrum;Sapindaceae
+1112;maple, silver;Acer;saccharinum;Sapindaceae
+1113;maple, sugar;Acer;saccharum;Sapindaceae
+1114;maple, mountain;Acer;spicatum;Sapindaceae
+771;yarrow, common;Achillea;millefolium;Asteraceae
+1152;yarrow, pearl;Achillea;ptarmica;Asteraceae
+94;lotus, prairie;Acmispon;americanus;Fabaceae
+180;monkshood, Columbia;Aconitum;columbianum;Ranunculaceae
+1459;Venus'-chariot;Aconitum;napellus;Ranunculaceae
+184;sweetflag;Acorus;calamus;Acoraceae
+776;knapweed, Russian;Acroptilon;repens;Asteraceae
+1460;baneberry, white;Actaea;pachypoda;Ranunculaceae
+181;baneberry, wild red;Actaea;rubra;Ranunculaceae
+800;trail-plant;Adenocaulon;bicolor;Asteraceae
+1314;Allegheny-vine;Adlumia;fungosa;Papaveraceae
+596;muskroot;Adoxa;moschatellina;Adoxaceae
+159;goutweed, bishop's;Aegopodium;podagraria;Apiaceae
+1335;buckeye, Ohio;Aesculus;glabra;Sapindaceae
+1122;parsley, fool's;Aethusa;cynapium;Apiaceae
+1533;foxglove, tall false;Agalinis;aspera;Orobanchaceae
+1534;foxglove, earleaf, false;Agalinis;auriculata;Orobanchaceae
+1535;foxglove, roundstem false;Agalinis;gattingeri;Orobanchaceae
+1536;foxglove, smallflower false;Agalinis;paupercula;Orobanchaceae
+1537;foxglove, purple false;Agalinis;purpurea;Orobanchaceae
+1687;foxglove, Skinner's false;Agalinis;skinneriana;Orobanchaceae
+809;foxglove, slenderleaf false;Agalinis;tenuifolia;Orobanchaceae
+599;hyssop, blue giant;Agastache;foeniculum;Lamiaceae
+1345;hyssop, yellow giant;Agastache;nepetoides;Lamiaceae
+1346;hyssop, purple giant;Agastache;scrophulariaefolia;Lamiaceae
+1186;snakeroot, white;Ageratina;altissima;Asteraceae
+214;agrimony, tall hairy;Agrimonia;gryposepala;Rosaceae
+1672;agrimony, swamp or harvestlice;Agrimonia;parviflora;Rosaceae
+1673;groovebur, soft;Agrimonia;pubescens;Rosaceae
+564;agrimony, grooved;Agrimonia;striata;Rosaceae
+618;corncockle, common;Agrostemma;githago;Caryophyllaceae
+241;heaven, tree of;Ailanthus;altissima;Simaroubaceae
+1347;bugle, blue;Ajuga;genevensis;Lamiaceae
+218;bugle, common;Ajuga;reptans;Lamiaceae
+221;hollyhock;Alcea;rosea;Malvaceae
+1086;mantle, lady's;Alchemilla;vulgaris;Rosaceae
+1699;colicroot, white;Aletris;farinosa;Liliaceae
+222;waterplantain, narrowleaf;Alisma;gramineum;Alismataceae
+1116;waterplantain, American;Alisma;subcordatum;Alismataceae
+688;plantain, northern water;Alisma;triviale;Alismataceae
+265;mustard, garlic;Alliaria;petiolata;Brassicaceae
+602;garlic, meadow;Allium;canadense;Alliaceae
+106;onion, nodding;Allium;cernuum;Alliaceae
+1717;garlic, cultivated;Allium;sativum;Alliaceae
+340;chives, wild;Allium;schoenoprasum;Alliaceae
+1366;onion, autumn;Allium;stellatum;Alliaceae
+1367;ramp;Allium;tricoccum;Alliaceae
+1545;alder, European;Alnus;glutinosa;Betulaceae
+12;alder, mountain;Alnus;incana;Betulaceae
+13;alder, Sitka;Alnus;viridis;Betulaceae
+1771;marshmallow, common;Althaea;officinalis;Malvaceae
+24;alyssum, pale;Alyssum;alyssoides;Brassicaceae
+1;tumbleweed, white;Amaranthus;albus;Amaranthaceae
+627;amaranth, sandhill;Amaranthus;arenicola;Amaranthaceae
+2;amaranth, mat;Amaranthus;blitoides;Amaranthaceae
+1271;love-lies-bleeding;Amaranthus;caudatus;Amaranthaceae
+341;amaranth, red;Amaranthus;cruentus;Amaranthaceae
+619;amaranth, slim;Amaranthus;hybridus;Amaranthaceae
+1080;feather, Prince of Wales;Amaranthus;hypochondriacus;Amaranthaceae
+1010;carelessweed;Amaranthus;palmeri;Amaranthaceae
+229;pigweed, Powell's;Amaranthus;powellii;Amaranthaceae
+231;pigweed, rough;Amaranthus;retroflexus;Amaranthaceae
+1589;amaranth, spiny;Amaranthus;spinosus;Amaranthaceae
+1119;amaranth, rough-fruit;Amaranthus;tuberculatus;Amaranthaceae
+822;ragweed, common;Ambrosia;artemisiifolia;Asteraceae
+827;ragweed, Western;Ambrosia;psilostachya;Asteraceae
+829;ragweed, skeletonleaf burr;Ambrosia;tomentosa;Asteraceae
+836;ragweed, giant;Ambrosia;trifida;Asteraceae
+1475;serviceberry, downy;Amelanchier;arborea;Rosaceae
+1476;serviceberry, oblong fruit;Amelanchier;bartramiana;Rosaceae
+637;serviceberry, low;Amelanchier;humilis;Rosaceae
+1480;serviceberry, inland;Amelanchier;interior;Rosaceae
+1477;serviceberry, Allegheny;Amelanchier;laevis;Rosaceae
+1787;serviceberry, roundleaf;Amelanchier;sanguinea;Rosaceae
+1479;serviceberry, running;Amelanchier;spicata;Rosaceae
+219;orchid, roundleaf;Amerorchis;rotundifolia;Orchidaceae
+342;redstem, grand;Ammannia;robusta;Lythraceae
+1009;leadplant;Amorpha;canescens;Fabaceae
+689;indigobush, desert;Amorpha;fruticosa;Fabaceae
+1504;peppervine, Amur;Ampelopsis;brevipedunculata;Vitaceae
+1287;hogpeanut, American;Amphicarpaea;bracteata;Fabaceae
+252;fiddleneck, tarweed;Amsinckia;lycopsoides;Boraginaceae
+842;everlasting, pearly;Anaphalis;margaritacea;Asteraceae
+344;bugloss, small;Anchusa;arvensis;Boraginaceae
+15;alkanet;Anchusa;officinalis;Boraginaceae
+1278;rosemary, bog;Andromeda;polifolia, var. latifolia;Ericaceae
+175;fairy-candelabra, western;Androsace;occidentalis;Primulaceae
+1461;liverwort;Anemone;acutiloba;Ranunculaceae
+1464;liverwort, American;Anemone;americana;Ranunculaceae
+641;anemone, Canada;Anemone;canadensis;Ranunculaceae
+1462;thimbleweed, Carolina;Anemone;caroliniana;Ranunculaceae
+659;anemone, candle;Anemone;cylindrica;Ranunculaceae
+254;anemone, Hudson's;Anemone;multifida;Ranunculaceae
+666;pasqueflower, American;Anemone;patens;Ranunculaceae
+345;nightcaps;Anemone;quinquefolia;Ranunculaceae
+810;thimbleweed, tall;Anemone;virginiana;Ranunculaceae
+346;dill;Anethum;graveolens;Apiaceae
+1123;angelica, purple stem;Angelica;atropurpurea;Apiaceae
+857;pussytoes, field;Antennaria;howellii;Asteraceae
+858;pussytoes, field;Antennaria;neglecta;Asteraceae
+1153;tobacco, woman's;Antennaria;parlinii;Asteraceae
+1780;pussytoes, plantain leaved;Antennaria;plantaginifolia;Asteraceae
+859;chamomile, field;Anthemis;arvensis;Asteraceae
+860;chamomile, mayweed;Anthemis;cotula;Asteraceae
+278;chervil, wild;Anthriscus;sylvestris;Apiaceae
+1081;kidneyvetch, common;Anthyllis;vulneraria;Fabaceae
+134;camas, mountain death;Anticlea;elegans;Melanthiaceae
+1779;snapdragon;Antirrhinum;majus;Plantaginaceae
+1011;groundnut;Apios;americana;Fabaceae
+1400;Adam-and-Eve;Aplectrum;hyemale;Orchidaceae
+9;dogbane, spreading;Apocynum;androsaemifolium;Apocynaceae
+10;dogbane, hemp;Apocynum;cannabinum;Apocynaceae
+347;dogbane, intermediate;Apocynum;floribundum;Apocynaceae
+1465;columbine, red;Aquilegia;canadensis;Ranunculaceae
+1012;columbine, European;Aquilegia;vulgaris;Ranunculaceae
+620;rockcress, lyrate;Arabidopsis;lyrata;Brassicaceae
+348;cress, mousear;Arabidopsis;thaliana;Brassicaceae
+349;rockcress, alpine;Arabis;alpina;Brassicaceae
+28;rockcress, hairy;Arabis;hirsuta;Brassicaceae
+1311;Hercules-club;Aralia;elata;Araliaceae
+1142;sarsparilla, bristly;Aralia;hispida;Araliaceae
+621;sasaparilla, wild;Aralia;nudicaulis;Araliaceae
+1014;spikenard, American;Aralia;racemosa;Araliaceae
+1577;mistletoe, eastern dwarf;Arceuthobium;pusillum;Viscaceae
+862;burdock, greater;Arctium;lappa;Asteraceae
+863;burdock, common;Arctium;minus;Asteraceae
+305;burdock, cotton;Arctium;tomentosum;Asteraceae
+77;bearberry;Arctostaphylos;uva-ursi;Ericaceae
+62;sandwort, thyme-leaf;Arenaria;serpyllifolia;Caryophyllaceae
+1401;dragon's-mouth;Arethusa;bulbosa;Orchidaceae
+1659;pricklypoppy, blue stem;Argemone;albiflora;Papaveraceae
+1138;greendragon;Arisaema;dracontium;Araceae
+1139;jack-in-the-pulpit;Arisaema;triphyllum;Araceae
+1234;horseradish;Armoracia;rusticana;Brassicaceae
+1171;indian-plantain, pale;Arnoglossum;atriplicifolium;Asteraceae
+1173;indian-plantain, groovestem;Arnoglossum;plantagineum;Asteraceae
+1172;indian-plantain, great;Arnoglossum;reniforme;Asteraceae
+1482;chokeberry, black;Aronia;melanocarpa;Rosaceae
+864;southernwood;Artemisia;abrotanum;Asteraceae
+865;wormwood;Artemisia;absinthium;Asteraceae
+866;sagewort, sweet;Artemisia;annua;Asteraceae
+867;wormwood, biennial;Artemisia;biennis;Asteraceae
+868;sagewort, field;Artemisia;campestris;Asteraceae
+869;tarragon;Artemisia;dracunculus;Asteraceae
+870;sagewort, fringed;Artemisia;frigida;Asteraceae
+871;sage, prairie;Artemisia;ludoviciana;Asteraceae
+1154;wormwood, Roman;Artemisia;pontica;Asteraceae
+1095;wormwood, sawtooth;Artemisia;serrata;Asteraceae
+872;wormwood, beach;Artemisia;stelleriana;Asteraceae
+873;mugwort;Artemisia;vulgaris;Asteraceae
+333;feathers, bride's;Aruncus;dioicus;Rosaceae
+1145;ginger, Canadian wild;Asarum;canadense;Aristolochiaceae
+1146;milkweed, clasping;Asclepias;amplexicaulis;Apocynaceae
+1147;milkweed, poke;Asclepias;exaltata;Apocynaceae
+1594;milkweed, tall green;Asclepias;hirtella;Apocynaceae
+690;milkweed, swamp;Asclepias;incarnata;Apocynaceae
+1148;milkweed, side-cluster;Asclepias;lanuginosa;Apocynaceae
+1595;milkweed, Mead's;Asclepias;meadii;Apocynaceae
+460;milkweed, oval-leaved;Asclepias;ovalifolia;Apocynaceae
+1596;milkweed, purple;Asclepias;purpurascens;Apocynaceae
+11;milkweed, showy;Asclepias;speciosa;Apocynaceae
+1150;milkweed, prairie;Asclepias;sullivantii;Apocynaceae
+351;milkweed, common;Asclepias;syriaca;Apocynaceae
+1016;milkweed, butterfly;Asclepias;tuberosa;Apocynaceae
+716;milkweed, whorled;Asclepias;verticillata;Apocynaceae
+717;milkweed, green;Asclepias;viridiflora;Apocynaceae
+1591;paw paw, common;Asimina;triloba;Annonaceae
+352;asparagus, garden;Asparagus;officinalis;Asparagaceae
+256;milkvetch, alpine;Astragalus;alpinus;Fabaceae
+683;milkvetch, Canadian;Astragalus;canadensis;Fabaceae
+622;milkvetch, cicer;Astragalus;cicer;Fabaceae
+510;plum, ground;Astragalus;crassicarpus;Fabaceae
+1288;milkvetch, Cooper's;Astragalus;neglectus;Fabaceae
+675;silene, Sweet William;Atocion;armeria;Caryophyllaceae
+354;orache, garden;Atriplex;hortensis;Chenopodiaceae
+355;saltbush, spear;Atriplex;patula;Chenopodiaceae
+356;orache, triangle;Atriplex;prostrata;Chenopodiaceae
+357;saltweed, tumbling;Atriplex;rosea;Chenopodiaceae
+1688;foxglove, large-flower yellow false;Aureolaria;grandiflora;Scrophulariaceae
+1538;foxglove, fernleaf yellow false;Aureolaria;pedicularia;Scrophulariaceae
+691;waterhyssop, disk;Bacopa;rotundifolia;Plantaginaceae
+1646;horehound, black;Ballota;nigra;Lamiaceae
+1290;indigo, blue wild;Baptisia;australis;Fabaceae
+1289;indigo, white wild;Baptisia;lactea;Fabaceae
+1291;indigo, long-bract wild;Baptisia;leucophaea;Fabaceae
+1627;horseflyweed;Baptisia;tinctoria;Fabaceae
+30;wintercress, American;Barbarea;orthoceras;Brassicaceae
+31;wintercress, bitter;Barbarea;vulgaris;Brassicaceae
+1669;screwstem, twining;Bartonia;paniculata;Gentianaceae
+1317;screwstem, yellow;Bartonia;virginica;Gentianaceae
+358;smotherweed, fivehorn;Bassia;hyssopifolia;Chenopodiaceae
+285;kochia;Bassia;scoparia;Chenopodiaceae
+883;daisy, English;Bellis;perennis;Asteraceae
+811;barberry, Japanese;Berberis;thunbergii;Berberidaceae
+718;barberry, common;Berberis;vulgaris;Berberidaceae
+623;madwort, hoary false;Berteroa;incana;Brassicaceae
+359;waterparsnip;Berula;erecta;Apiaceae
+1539;coraldrops, Bull's;Besseya;bullii;Plantaginaceae
+1220;birch, yellow;Betula;alleghaniensis;Betulaceae
+1788;birch, heart-leaved;Betula;cordifolia;Betulaceae
+1221;birch, river;Betula;nigra;Betulaceae
+257;birch, paper;Betula;papyrifera;Betulaceae
+1017;birch, European white;Betula;pendula;Betulaceae
+360;birch, swamp;Betula;pumila;Betulaceae
+1018;beggarticks, bearded;Bidens;aristosa;Asteraceae
+966;beggarticks, aquatic;Bidens;beckii;Asteraceae
+884;beggarticks, nodding;Bidens;cernua;Asteraceae
+1168;beggarticks, purple-stemmed;Bidens;connata;Asteraceae
+1170;beggarticks, small;Bidens;discoidea;Asteraceae
+885;beggarticks, devil's;Bidens;frondosa;Asteraceae
+1322;beggarticks, hairy;Bidens;pilosa;Asteraceae
+1169;beggarticks, crowned;Bidens;trichosperma;Asteraceae
+886;beggarticks, three lobe;Bidens;tripartita;Asteraceae
+887;beggarticks, big devil's;Bidens;vulgata;Asteraceae
+1647;pagoda-plant, downy;Blephilia;ciliata;Lamiaceae
+1348;pagoda-plant, hairy;Blephilia;hirsuta;Lamiaceae
+1232;sicklepod;Boechera;canadensis;Brassicaceae
+1233;rockcress, Short's;Boechera;dentata;Brassicaceae
+25;rockcress, spreadingpod;Boechera;grahamii;Brassicaceae
+1013;rockcress, smooth;Boechera;laevigata;Brassicaceae
+1614;rockcress, green;Boechera;missouriensis;Brassicaceae
+26;rockcress, Drummond's;Boechera;stricta;Brassicaceae
+1565;nettle, small-spike false;Boehmeria;cylindrica;Urticaceae
+888;daisy, white doll's;Boltonia;asteroides;Asteraceae
+361;watershield;Brasenia;schreberi;Cabombaceae
+362;mustard, India;Brassica;juncea;Brassicaceae
+363;mustard, black;Brassica;nigra;Brassicaceae
+258;mustard, field;Brassica;rapa;Brassicaceae
+890;boneset, false;Brickellia;eupatorioides;Asteraceae
+18;gromwell, corn;Buglossoides;arvense;Boraginaceae
+1038;rocket, Turkish;Bunias;orientalis;Brassicaceae
+719;rush, flowering;Butomus;umbellatus;Butomaceae
+364;searocket, American;Cakile;edentula;Brassicaceae
+1773;marigold, pot;Calendula;officinalis;Asteraceae
+461;arum, water;Calla;palustris;Araceae
+1019;poppymallow, light;Callirhoe;alcaeoides;Malvaceae
+365;poppymallow, purple;Callirhoe;involucrata;Malvaceae
+1711;mallow, clustered poppy;Callirhoe;triangulata;Malvaceae
+1799;aster, Chinese;Callistephus;chinensis;Asteraceae
+366;water-starwort, northern;Callitriche;hermaphroditica;Plantaginaceae
+52;water-starwort, different-leaved;Callitriche;heterophylla;Plantaginaceae
+367;water-starwort, winged;Callitriche;marginata;Plantaginaceae
+53;water-starwort, spring;Callitriche;palustris;Plantaginaceae
+368;water-starwort, pond;Callitriche;stagnalis;Plantaginaceae
+1735;water-starwort, terrestrial;Callitriche;terrestris;Plantaginaceae
+1054;heather, Scottish;Calluna;vulgaris;Ericaceae
+1761;grass-pink, Oklahoma;Calopogon;oklahomensis;Orchidaceae
+1402;grass-pink, tuberous;Calopogon;tuberosus;Orchidaceae
+1084;marshmarigold, floating;Caltha;natans;Ranunculaceae
+369;marshmarigold, yellow;Caltha;palustris;Ranunculaceae
+723;sundrops, yellow;Calylophus;serrulatus;Onagraceae
+147;orchid, calypso;Calypso;bulbosa;Orchidaceae
+624;bindweed, hedge false;Calystegia;sepium;Convolvulaceae
+1265;bindweed, low false;Calystegia;spithamea;Convolvulaceae
+1702;camas, eastern;Camassia;scilloides;Agavaceae
+32;falseflax, little;Camelina;microcarpa;Brassicaceae
+370;gold-of-pleasure;Camelina;sativa;Brassicaceae
+1242;bellflower, American;Campanula;americana;Campanulaceae
+625;bellflower, marsh;Campanula;aparinoides;Campanulaceae
+721;Dane's-blood;Campanula;glomerata;Campanulaceae
+1500;bellflower, giant;Campanula;latifolia;Campanulaceae
+402;bells, peach;Campanula;persicifolia;Campanulaceae
+339;bluebell, valley;Campanula;rapunculoides;Campanulaceae
+44;bluebells of Scotland;Campanula;rotundifolia;Campanulaceae
+1519;bats-in-the-belfry;Campanula;trachelium;Campanulaceae
+1020;creeper, trumpet;Campsis;radicans;Bignoniaceae
+891;aster, great northern;Canadanthus;modestus;Asteraceae
+722;marijuana;Cannabis;sativa;Cannabaceae
+33;purse, shepherd's;Capsella;bursa-pastoris;Brassicaceae
+720;peashrub, Siberian;Caragana;arborescens;Fabaceae
+1236;bittercress, bulbous;Cardamine;bulbosa;Brassicaceae
+1237;toothwort, cutleaf;Cardamine;concatenata;Brassicaceae
+1490;toothwort, broad-leaved;Cardamine;diphylla;Brassicaceae
+1615;bittercress, limestone;Cardamine;douglassii;Brassicaceae
+1714;bittercress, wood;Cardamine;flexuosa;Brassicaceae
+1800;bittercress, impatiens;Cardamine;impatiens;Brassicaceae
+1492;toothwort, large;Cardamine;maxima;Brassicaceae
+371;bittercress, sand;Cardamine;parviflora;Brassicaceae
+260;bittercress, Pacific;Cardamine;pensylvanica;Brassicaceae
+1039;cuckoo-flower;Cardamine;pratensis;Brassicaceae
+892;thistle, spiny plumeless;Carduus;acanthoides;Asteraceae
+893;thistle, musk;Carduus;nutans;Asteraceae
+1224;hornbeam, American;Carpinus;caroliniana;Betulaceae
+626;caraway;Carum;carvi;Apiaceae
+1342;hickory, bitter nut;Carya;cordiformis;Juglandaceae
+1343;hickory, shag-bark;Carya;ovata;Juglandaceae
+1635;chestnut, American;Castanea;dentata;Fagaceae
+1540;paintbrush, scarlet;Castilleja;coccinea;Orobanchaceae
+724;paintedcup, downy;Castilleja;sessiliflora;Orobanchaceae
+1226;catalpa, Chinese;Catalpa;ovata;Bignoniaceae
+1227;catalpa, northern;Catalpa;speciosa;Bignoniaceae
+1217;cohosh, blue;Caulophyllum;thalictroides;Berberidaceae
+1474;New Jersey tea;Ceanothus;americanus;Rhamnaceae
+725;tea, Jersey;Ceanothus;herbaceus;Rhamnaceae
+1620;bittersweed, Asian;Celastrus;orbiculatus;Celastraceae
+726;bittersweet, American;Celastrus;scandens;Celastraceae
+1275;cock's-comb, silver;Celosia;argentea;Amaranthaceae
+812;hackberry, common;Celtis;occidentalis;Cannabaceae
+912;thistle, blessed;Centaurea;benedicta;Asteraceae
+895;button, bachelor's;Centaurea;cyanus;Asteraceae
+897;knapweed, diffuse;Centaurea;diffusa;Asteraceae
+898;knapweed, brownray;Centaurea;jacea;Asteraceae
+286;knapweed, bighead;Centaurea;macrocephala;Asteraceae
+899;thistle, Maltese star;Centaurea;melitensis;Asteraceae
+900;cornflower, mountain;Centaurea;montana;Asteraceae
+901;knapweed, black;Centaurea;nigra;Asteraceae
+902;knapweed, Tyrol;Centaurea;nigrescens;Asteraceae
+896;knapweed, meadow;Centaurea;pratensis;Asteraceae
+903;knapweed, greater;Centaurea;scabiosa;Asteraceae
+904;thistle, yellow star;Centaurea;solstitialis;Asteraceae
+894;knapweed, spotted;Centaurea;stoebe;Asteraceae
+813;centaury, branched;Centaurium;pulchellum;Gentianaceae
+1512;buttonbush, common;Cephalanthus;occidentalis;Rubiaceae
+1636;cephalaria, Tartarian;Cephalaria;gigantea;Dipsacaceae
+63;cerastium, starry;Cerastium;arvense;Caryophyllaceae
+374;chickweed, shortstalk;Cerastium;brachypodium;Caryophyllaceae
+261;chickweed, mouse-eared;Cerastium;fontanum;Caryophyllaceae
+64;chickweed, nodding;Cerastium;nutans;Caryophyllaceae
+1243;chickweed, dwarf;Cerastium;pumilum;Caryophyllaceae
+375;chickweed, fivestamen;Cerastium;semidecandrum;Caryophyllaceae
+1050;miller, dusty;Cerastium;tomentosum;Caryophyllaceae
+1801;chickweed, large mouse-ear;Cerastium;velutinum;Caryophyllaceae
+262;hornwort;Ceratophyllum;demersum;Ceratophyllaceae
+376;hornwort, spineless;Ceratophyllum;echinatum;Ceratophyllaceae
+1087;redbud, eastern;Cercis;canadensis;Fabaceae
+1739;quince, Japanese flowering;Chaenomeles;speciosa;Rosaceae
+1021;snapdragon, dwarf;Chaenorrhinum;minus;Plantaginaceae
+1592;chervil, spreading;Chaerophyllum;procumbens;Apiaceae
+1351;lion's-tail;Chaiturus;marrubiastrum;Lamiaceae
+1240;sleepingplant;Chamaecrista;fasciculata;Fabaceae
+1056;leatherleaf;Chamaedaphne;calyculata;Ericaceae
+727;sandmat, Geyer's;Chamaesyce;geyeri;Euphorbiaceae
+90;spurge, corrugate-seed;Chamaesyce;glyptosperma;Euphorbiaceae
+377;sandmat, spotted;Chamaesyce;maculata;Euphorbiaceae
+1286;eyebane;Chamaesyce;nutans;Euphorbiaceae
+91;spurge, thymeleaf;Chamaesyce;serpyllifolia;Euphorbiaceae
+1638;spurge, hairy;Chamaesyce;vermiculata;Euphorbiaceae
+143;fireweed;Chamerion;angustifolium;Onagraceae
+814;celantine, greater;Chelidonium;majus;Papaveraceae
+1541;turtlehead, white;Chelone;glabra;Scrophulariaceae
+1542;turtlehead, red;Chelone;obliqua;Scrophulariaceae
+46;lambsquarter;Chenopodium;album;Chenopodiaceae
+378;goosefoot, pitseed;Chenopodium;berlandieri;Chenopodiaceae
+49;blite, strawberry;Chenopodium;capitatum;Chenopodiaceae
+263;goosefoot, leafy;Chenopodium;foliosum;Chenopodiaceae
+379;goosefoot, oakleaf;Chenopodium;glaucum;Chenopodiaceae
+380;goosefoot, nettleleaf;Chenopodium;murale;Chenopodiaceae
+381;goosefoot, manyseed;Chenopodium;polyspermum;Chenopodiaceae
+628;goosefoot, desert;Chenopodium;pratericola;Chenopodiaceae
+50;goosefoot, red;Chenopodium;rubrum, var. rubrum;Chenopodiaceae
+383;goosefoot, mapleleaf;Chenopodium;simplex;Chenopodiaceae
+728;goosefoot, Standley's;Chenopodium;standleyanum;Chenopodiaceae
+629;goosefoot, late-flowering;Chenopodium;strictum;Chenopodiaceae
+384;goosefoot, city;Chenopodium;urbicum;Chenopodiaceae
+78;prince's-pine, common;Chimaphila;umbellata;Ericaceae
+1526;saxifrage, American golden;Chrysosplenium;americanum;Saxifragaceae
+905;chicory;Cichorium;intybus;Asteraceae
+630;hemlock, bulblet-bearing water;Cicuta;bulbifera;Apiaceae
+729;hemlock, spotted water;Cicuta;maculata;Apiaceae
+142;nightshade, enchanter's;Circaea;alpina;Onagraceae
+815;nightshade, broadleaf enchanter's;Circaea;canadensis;Onagraceae
+1175;thistle, tall;Cirsium;altissimum;Asteraceae
+906;thistle, Canada;Cirsium;arvense;Asteraceae
+907;thistle, prairie;Cirsium;canescens;Asteraceae
+1176;thistle, field;Cirsium;discolor;Asteraceae
+909;thistle, Flodman's;Cirsium;flodmanii;Asteraceae
+1177;thistle, Hill's;Cirsium;hillii;Asteraceae
+1178;thistle, swamp;Cirsium;muticum;Asteraceae
+527;thistle, marsh;Cirsium;palustre;Asteraceae
+1353;thistle, dune;Cirsium;pitcheri;Asteraceae
+910;thistle, wavy-leaved;Cirsium;undulatum;Asteraceae
+911;thistle, bull;Cirsium;vulgare;Asteraceae
+1774;watermelon;Citrullus;lanatus;Cucurbitaceae
+1447;springbeauty, Carolina;Claytonia;caroliniana;Montiaceae
+1448;springbeauty, Virginia;Claytonia;virginica;Montiaceae
+631;virginsbower, western blue;Clematis;occidentalis;Ranunculaceae
+1466;darning-needles, devil's;Clematis;virginiana;Ranunculaceae
+617;thyme, basil;Clinopodium;acinos;Lamiaceae
+1357;basil, limestone wild;Clinopodium;arkansanum;Lamiaceae
+1023;basil, wild;Clinopodium;vulgare;Lamiaceae
+1368;bluebeadlily, yellow;Clintonia;borealis;Liliaceae
+632;orchid, longbract frog;Coeloglossum;viride;Orchidaceae
+1689;blue-eyed-Mary, spring;Collinsia;verna;Plantaginaceae
+1695;horsebalm, Canada;Collinsonia;canadensis;Lamiaceae
+169;collomia, narrow-leaf;Collomia;linearis;Polemoniaceae
+220;toadflax, bastard;Comandra;umbellata;Comandraceae
+324;cinquefoil, purple;Comarum;palustre;Rosaceae
+1263;dayflower, Asiatic;Commelina;communis;Commelinaceae
+1025;dayflower, whitemouth;Commelina;erecta;Commelinaceae
+1387;sweetfern;Comptonia;peregrina;Myricaceae
+386;hemlockparsley, Pacific;Conioselinum;gmelinii;Apiaceae
+387;hemlock, poison;Conium;maculatum;Apiaceae
+1658;cancer-root, American;Conopholis;americana;Orobanchaceae
+264;hare's-ear;Conringia;orientalis;Brassicaceae
+388;knight's-spur, doubtful;Consolida;ajacis;Ranunculaceae
+1708;lily-of-the-valley;Convallaria;majalis;Liliaceae
+54;morning-glory, field;Convolvulus;arvensis;Convolvulaceae
+913;horseweed;Conyza;canadensis;Asteraceae
+1179;horseweed, dwarf;Conyza;ramosissima;Asteraceae
+389;goldthread, threeleaf;Coptis;trifolia;Ranunculaceae
+148;coralroot, spotted;Corallorhiza;maculata;Orchidaceae
+1403;coralroot, autumn;Corallorhiza;odontorhiza;Orchidaceae
+149;coralroot, striped;Corallorhiza;striata;Orchidaceae
+150;coralroot, yellow;Corallorhiza;trifida;Orchidaceae
+1601;tickseed, large-flowered;Coreopsis;grandiflora;Asteraceae
+1026;tickseed, lanceleaf;Coreopsis;lanceolata;Asteraceae
+1180;tickseed, stiff;Coreopsis;palmata;Asteraceae
+914;tickseed, Atkinson's;Coreopsis;tinctoria;Asteraceae
+1602;tickseed, tall;Coreopsis;tripteris;Asteraceae
+390;bugseed, common;Corispermum;americanum;Chenopodiaceae
+1770;tickseed, Siberian;Corispermum;pallasii;Chenopodiaceae
+730;bugseed, oriental;Corispermum;villosum;Chenopodiaceae
+1267;dogwood, alternate-leafed;Cornus;alternifolia;Cornaceae
+1268;dogwood, pale;Cornus;amomum;Cornaceae
+55;bunchberry;Cornus;canadensis;Cornaceae
+1623;dogwood, rough leaf;Cornus;drummondii;Cornaceae
+1269;dogwood, gray;Cornus;foemina, ssp. racemosa;Cornaceae
+1270;dogwood, round leaf;Cornus;rugosa;Cornaceae
+56;dogwood, red osier;Cornus;sericea;Cornaceae
+391;crownvetch, purple;Coronilla;varia;Fabaceae
+113;corydalis, golden;Corydalis;aurea;Papaveraceae
+1315;fumewort, small flower;Corydalis;micrantha;Papaveraceae
+462;corydalis, pink;Corydalis;sempervirens;Papaveraceae
+1225;hazelnut, American;Corylus;americana;Betulaceae
+14;filbert;Corylus;cornuta;Betulaceae
+1024;cosmos, garden;Cosmos;bipinnatus;Asteraceae
+861;chamomile;Cota;tinctoria;Asteraceae
+1802;cotoneaster, spreading;Cotoneaster;divaricatus;Rosaceae
+1808;hawthorn, Dunbar's;Crataegus;beata;Rosaceae
+1809;hawthorn, Brainerd;Crataegus;brainerdii;Rosaceae
+1483;hawthorn, pear;Crataegus;calpodendron;Rosaceae
+393;hawthorn, fireberry;Crataegus;chrysocarpa;Rosaceae
+1486;hawthorn, scarlet;Crataegus;coccinea;Rosaceae
+1765;hawthorn, Kansas;Crataegus;coccinioides;Rosaceae
+1674;hawthorn, cockspur;Crataegus;crus-galli;Rosaceae
+195;hawthorn, black;Crataegus;douglasii;Rosaceae
+1484;hawthorn, fanleaf;Crataegus;flabellata;Rosaceae
+1810;hawthorn, large-flowered;Crataegus;formosa;Rosaceae
+1741;hawthorn, Biltmore;Crataegus;intricata;Rosaceae
+1816;hawthorn, Laurentian;Crataegus;laurentiana;Rosaceae
+1789;hawthorn, large-thorned;Crataegus;macracantha;Rosaceae
+1791;hawthorn, eastern;Crataegus;macrosperma;Rosaceae
+1485;hawthorn, downy;Crataegus;mollis;Rosaceae
+394;hawthorn, oneseed;Crataegus;monogyna;Rosaceae
+1811;hawthorn, plumleaf;Crataegus;persimilis;Rosaceae
+1812;hawthorne, poplar;Crataegus;populnea;Rosaceae
+1813;hawthorne, Illinois;Crataegus;prona;Rosaceae
+1677;hawthorn, waxy fruit;Crataegus;pruinosa;Rosaceae
+1487;hawthorn, dotted;Crataegus;punctata;Rosaceae
+1488;hawthorn, rough;Crataegus;scabrida;Rosaceae
+1814;hawthorn, Schuettei's;Crataegus;schuettei;Rosaceae
+1815;hawthorn, stolon-bearing;Crataegus;stolonifera;Rosaceae
+1790;hawthorn, Quebec;Crataegus;submollis;Rosaceae
+731;hawthorn, fleshy;Crataegus;succulenta;Rosaceae
+915;hawksbeard, smooth;Crepis;capillaris;Asteraceae
+1803;hawksbeard, stinking;Crepis;foetida;Asteraceae
+916;hawksbeard, smallflower;Crepis;pulchra;Asteraceae
+917;hawksbeard, bristly;Crepis;setosa;Asteraceae
+918;hawksbeard, narrowleaf;Crepis;tectorum;Asteraceae
+826;frostweed, hoary;Crocanthemum;bicknellii;Cistaceae
+1257;frostweed, long branch;Crocanthemum;canadense;Cistaceae
+1292;rattlebox, arrowhead;Crotalaria;sagittalis;Fabaceae
+1149;vente-conmingo;Croton;glandulosus;Euphorbiaceae
+1626;tea, prairie;Croton;monanthogynus;Euphorbiaceae
+816;croton, Texas;Croton;texensis;Euphorbiaceae
+1124;honewort, Canadian;Cryptotaenia;canadensis;Apiaceae
+1775;canteloupe;Cucumis;melo;Cucurbitaceae
+817;gourd, Missouri;Cucurbita;foetidissima;Cucurbitaceae
+395;dodder, buttonbush;Cuscuta;cephalanthi;Convolvulaceae
+732;dodder, hazel;Cuscuta;coryli;Cuscutaceae
+1027;dodder, cusp;Cuscuta;cuspidata;Cuscutaceae
+1273;dodder, rope;Cuscuta;glomerata;Cuscutaceae
+396;scaldweed;Cuscuta;gronovii;Cuscutaceae
+266;dodder, field;Cuscuta;pentagona;Convolvulaceae
+1274;dodder, smartweed;Cuscuta;polygonorum;Cuscutaceae
+949;sumpweed, giant;Cyclachaena;xanthiifolia;Asteraceae
+733;pigweed, winged;Cycloloma;atriplicifolium;Chenopodiaceae
+1151;swallowwort, black;Cynanchum;louiseae;Apocynaceae
+1804;houndstongue, Chinese;Cynoglossum;amabile;Boraginaceae
+16;houndstongue, common;Cynoglossum;officinale;Boraginaceae
+509;houndstongue, northern;Cynoglossum;virginianum;Boraginaceae
+1404;ladyslipper, pink;Cypripedium;acaule;Orchidaceae
+1405;ladyslipper, ram head;Cypripedium;arietinum;Orchidaceae
+1406;ladyslipper, small white;Cypripedium;candidum;Orchidaceae
+397;ladyslipper, lesser yellow;Cypripedium;parviflorum;Orchidaceae
+1407;ladyslipper, showy;Cypripedium;reginae;Orchidaceae
+734;prairie-clover, slender white;Dalea;candida;Fabaceae
+735;prairie-clover, purple;Dalea;purpurea;Fabaceae
+736;prairie-clover, silky;Dalea;villosa;Fabaceae
+1805;paradise-plant;Daphne;mezereum;Thymelaeaceae
+201;cinquefoil, shrubby;Dasiphora;fruticosa;Rosaceae
+1690;foxglove, mullein;Dasistoma;macrophylla;Scrophulariaceae
+398;jumsonweed;Datura;stramonium;Solanaceae
+818;thornapple, sacred;Datura;wrightii;Solanaceae
+5;lace, Queen Anne's;Daucus;carota;Apiaceae
+1382;loosestrife, swamp;Decodon;verticillatus;Lythraceae
+1028;larkspur, Carolina;Delphinium;carolinianum;Ranunculaceae
+1806;larkspur, candle;Delphinium;elatum;Ranunculaceae
+35;tansymustard, pinnate;Descurainia;pinnata;Brassicaceae
+36;tansymustard, flixweed;Descurainia;sophia;Brassicaceae
+1029;bundleflower, prairie;Desmanthus;illinoensis;Fabaceae
+1293;ticktrefoil, showy;Desmodium;canadense;Fabaceae
+1629;ticktrefoil, hoary;Desmodium;canescens;Fabaceae
+1294;ticktrefoil, large bract;Desmodium;cuspidatum;Fabaceae
+1296;ticktrefoil, Illinois;Desmodium;illinoense;Fabaceae
+65;pink, Deptford;Dianthus;armeria;Caryophyllaceae
+399;sweetwilliam;Dianthus;barbatus;Caryophyllaceae
+1571;pink, maiden;Dianthus;carthusianorum;Caryophyllaceae
+633;pink, maiden;Dianthus;deltoides;Caryophyllaceae
+1155;pink, feathered;Dianthus;plumarius;Caryophyllaceae
+1316;squirrel-corn;Dicentra;canadensis;Papaveraceae
+112;dutchman's breeches;Dicentra;cucullaria;Papaveraceae
+1092;waterpurslane;Didiplis;diandra;Lythraceae
+1244;honeysuckle, northern bush;Diervilla;lonicera;Caprifoliaceae
+1543;foxglove, yellow;Digitalis;grandiflora;Plantaginaceae
+1544;foxglove, Grecian;Digitalis;lanata;Plantaginaceae
+1807;foxglove, straw;Digitalis;lutea;Plantaginaceae
+225;foxglove;Digitalis;purpurea;Plantaginaceae
+1683;buttonweed;Diodia;teres;Rubiaceae
+1276;yam, wild;Dioscorea;villosa;Dioscoreaceae
+400;wallrocket, annual;Diplotaxis;muralis;Brassicaceae
+75;teasel, fuller's;Dipsacus;fullonum;Dipsacaceae
+1030;teasel, cutleaf;Dipsacus;laciniatus;Dipsacaceae
+1561;leatherwood, eastern;Dirca;palustris;Thymelaeaceae
+1455;shootingstar, jeweled;Dodecatheon;amethystinum;Primulaceae
+401;Ohio, pride of;Dodecatheon;meadia;Primulaceae
+1165;whitetop, parasol;Doellingeria;umbellata;Asteraceae
+1238;whitlowgrass, rock;Draba;arabisans;Brassicaceae
+267;draba, lance-leaved;Draba;cana;Brassicaceae
+268;draba, woods;Draba;nemorosa;Brassicaceae
+403;whitlowgrass, Carolina;Draba;reptans;Brassicaceae
+269;whitlow-grass, spring;Draba;verna;Brassicaceae
+404;dragonhead, American;Dracocephalum;parviflorum;Lamiaceae
+270;sundew;Drosera;anglica;Droseraceae
+772;sundew, spoon-leaved;Drosera;intermedia;Droseraceae
+737;sundew, slenderleaf;Drosera;linearis;Droseraceae
+405;sundew, roundleaf;Drosera;rotundifolia;Droseraceae
+302;cinquefoil, tall;Drymocallis;arguta;Rosaceae
+406;strawberry, Indian;Duchesnea;indica;Rosaceae
+47;wormseed, Mexican tea;Dysphania;ambrosioides;Chenopodiaceae
+48;geranium, feather;Dysphania;botrys;Chenopodiaceae
+382;goosefoot, clammy;Dysphania;pumilio;Chenopodiaceae
+919;marigold, fetid;Dyssodia;papposa;Asteraceae
+1603;coneflower, pale;Echinacea;pallida;Asteraceae
+327;cucumber, wild;Echinocystis;lobata;Cucurbitaceae
+1093;burrhead, upright;Echinodorus;berteroi;Alismataceae
+920;globethistle, great;Echinops;sphaerocephalus;Asteraceae
+634;vipersbugloss, common;Echium;vulgare;Boraginaceae
+1181;daisy, false;Eclipta;prostrata;Asteraceae
+407;olive, Russian;Elaeagnus;angustifolia;Elaeagnaceae
+1624;olive, autumn;Elaeagnus;umbellata;Elaeagnaceae
+1277;waterwort, small;Elatine;minima;Elatinaceae
+408;waterwort, threestamen;Elatine;rubella;Elatinaceae
+693;Aunt Lucy;Ellisia;nyctelea;Boraginaceae
+121;waterweed;Elodea;canadensis;Hydrocharitaceae
+409;waterweed, western;Elodea;nuttallii;Hydrocharitaceae
+1696;mint, crested late summer;Elsholtzia;ciliata;Lamiaceae
+1467;rue-anemone, eastern false;Enemion;biternatum;Ranunculaceae
+1720;cancer root;Epifagus;virginiana;Orobanchaceae
+1279;arbutus, trailing;Epigaea;repens;Ericaceae
+146;willow-herb, tall annual;Epilobium;brachycarpum;Onagraceae
+271;willow-herb, common;Epilobium;ciliatum;Onagraceae
+1394;willowherb, purple-leaf;Epilobium;coloratum;Onagraceae
+635;codlins-and-cream;Epilobium;hirsutum;Onagraceae
+636;willowherb, bog;Epilobium;leptophyllum;Onagraceae
+145;willow-herb, swamp;Epilobium;palustre;Onagraceae
+694;willowherb, downy;Epilobium;strictum;Onagraceae
+556;helleborine;Epipactis;helleborine;Orchidaceae
+921;burnweed, American;Erechtites;hieraciifolius;Asteraceae
+1724;harbinger-of-spring;Erigenia;bulbosa;Apiaceae
+922;fleabane, bitter;Erigeron;acris;Asteraceae
+923;fleabane, eastern daisy;Erigeron;annuus;Asteraceae
+924;fleabane, streamside;Erigeron;glabellus;Asteraceae
+925;fleabane, Philadelphia;Erigeron;philadelphicus;Asteraceae
+1182;robin's-plantain;Erigeron;pulchellus;Asteraceae
+926;fleabane, daisy;Erigeron;strigosus;Asteraceae
+1283;pipewort, seven angle;Eriocaulon;aquaticum;Eriocaulaceae
+114;geranium, stork's bill;Erodium;cicutarium;Geraniaceae
+274;mustard, dog;Erucastrum;gallicum;Brassicaceae
+1032;eryngo, plains;Eryngium;planum;Apiaceae
+1125;eryngo, button;Eryngium;yuccifolium;Apiaceae
+410;wallflower, sanddune;Erysimum;capitatum;Brassicaceae
+325;wallflower, wormseed;Erysimum;cheiranthoides;Brassicaceae
+1584;wallflower, European;Erysimum;hieraciifolium;Brassicaceae
+411;wallflower, shy;Erysimum;inconspicuum;Brassicaceae
+1369;fawnlily, small white;Erythronium;albidum;Liliaceae
+1370;troutlily, American;Erythronium;americanum;Liliaceae
+157;poppy, California;Eschscholzia;californica;Papaveraceae
+739;spindletree, winged;Euonymus;alatus;Celastraceae
+740;wahoo, eastern;Euonymus;atropurpureus;Celastraceae
+1600;spindle-tree, European;Euonymus;europaea;Celastraceae
+1737;spindletree, winter creeper;Euonymus;fortunei;Celastraceae
+1817;running-shrub;Euonymus;obovatus;Celastraceae
+1183;thoroughwort, tall;Eupatorium;altissimum;Asteraceae
+1184;boneset, common;Eupatorium;perfoliatum;Asteraceae
+1604;boneset, late;Eupatorium;serotinum;Asteraceae
+1187;boneset, upland;Eupatorium;sessilifolium;Asteraceae
+1285;spurge, flowering;Euphorbia;corollata;Euphorbiaceae
+1096;fire-on-the-mountain;Euphorbia;cyathophora;Euphorbiaceae
+89;spurge, cypress;Euphorbia;cyparissias;Euphorbiaceae
+1786;poinsettia, David's;Euphorbia;davidii;Euphorbiaceae
+819;spurge, toothed;Euphorbia;dentata;Euphorbiaceae
+412;milk, madwoman's;Euphorbia;helioscopia;Euphorbiaceae
+741;spurge, sixangle;Euphorbia;hexagona;Euphorbiaceae
+1776;sandmat, pill pod;Euphorbia;hirta;Euphorbiaceae
+742;snow-on-the-mountain;Euphorbia;marginata;Euphorbiaceae
+414;spurge, warty;Euphorbia;obtusata;Euphorbiaceae
+413;spurge, pretty;Euphorbia;peplus;Euphorbiaceae
+275;spurge, leafy;Euphorbia;virgata;Euphorbiaceae
+415;eyebright, drug;Euphrasia;nemorsa;Orobanchaceae
+1597;aster, forked;Eurybia;furcata;Asteraceae
+1160;aster, bigleaf;Eurybia;macrophylla;Asteraceae
+1362;goldenrod, coastal plain flat-topped;Euthamia;caroliniana;Asteraceae
+928;goldentop, flattened;Euthamia;graminifolia;Asteraceae
+1099;euthamia, viscid;Euthamia;gymnospermoides;Asteraceae
+927;joe-pye-weed, spotted;Eutrochium;maculatum;Asteraceae
+1185;Joe-Pye-weed, sweet-scented;Eutrochium;purpureum;Asteraceae
+416;fagopyrum;Fagopyrum;esculentum;Polygonaceae
+1651;beech, American;Fagus;grandifolia;Fagaceae
+171;sickleweed;Falcaria;vulgaris;Apiaceae
+1440;bindweed, fringed black;Fallopia;cilinodis;Polygonaceae
+520;bindweed, black;Fallopia;convolvulus;Polygonaceae
+521;knotweed, Japanese;Fallopia;japonica;Polygonaceae
+526;knotweed, giant;Fallopia;sachalinensis;Polygonaceae
+848;buckwheat, climbing false;Fallopia;scandens;Polygonaceae
+1385;crabweed, hairy;Fatoua;villosa;Moraceae
+668;buttercup, fig;Ficaria;verna;Ranunculaceae
+1678;queen-of-the-prairie;Filipendula;rubra;Rosaceae
+1101;queen-of-the-meadow;Filipendula;ulmaria;Rosaceae
+137;mermaid, false;Floerkea;proserpinacoides;Limnanthaceae
+417;fennel, sweet;Foeniculum;vulgare;Apiaceae
+196;strawberry, woods;Fragaria;vesca;Rosaceae
+197;strawberry, broadpetal;Fragaria;virginiana;Rosaceae
+1033;buckthorn, European alder;Frangula;alnus;Rhamnaceae
+1034;ash, white;Fraxinus;americana;Oleaceae
+1391;ash, black;Fraxinus;nigra;Oleaceae
+743;ash, green or red;Fraxinus;pennsylvanica;Oleaceae
+1655;ash, blue;Fraxinus;quadrangulata;Oleaceae
+1035;snakecotton, plains;Froelichia;floridana;Amaranthaceae
+820;snakecotton, slender;Froelichia;gracilis;Amaranthaceae
+418;fumitory, drug;Fumaria;officinalis;Papaveraceae
+929;blanketflower;Gaillardia;aristata;Asteraceae
+1818;beetleweed or wand flower;Galax;urceolata;Diapensiaceae
+1704;orchid, showy;Galearis;spectabilis;Orchidaceae
+821;hempnettle, red;Galeopsis;ladanum;Lamiaceae
+638;hempnettle, brittlestem;Galeopsis;tetrahit;Lamiaceae
+1037;soldier, gallant;Galinsoga;parviflora;Asteraceae
+930;shaggy soldier;Galinsoga;quadriradiata;Asteraceae
+419;baby's-breath, false;Galium;album;Rubiaceae
+209;bedstraw, catchweed;Galium;aparine;Rubiaceae
+1513;bedstraw, rough;Galium;asprellum;Rubiaceae
+211;bedstraw, northern;Galium;boreale;Rubiaceae
+1684;bedstraw, licorice;Galium;circaezans;Rubiaceae
+1097;bedstraw, shining;Galium;concinnum;Rubiaceae
+1090;bedstraw, northern bog;Galium;labradoricum;Rubiaceae
+1747;licorice, lance-leaved wild;Galium;lanceolatum;Rubiaceae
+1514;bedstraw, bluntleaf;Galium;obtusum;Rubiaceae
+744;bedstraw, common marsh;Galium;palustre;Rubiaceae
+422;bedstraw, stiff marsh;Galium;tinctorium;Rubiaceae
+212;bedstraw, small;Galium;trifidum;Rubiaceae
+213;bedstraw, sweetscented;Galium;triflorum;Rubiaceae
+423;bedstraw, Yellow Spring;Galium;verum;Rubiaceae
+639;snowberry, creeping;Gaultheria;hispidula;Ericaceae
+1280;teaberry, eastern;Gaultheria;procumbens;Ericaceae
+1281;huckleberry, black;Gaylussacia;baccata;Ericaceae
+1639;greenwood, dyer's;Genista;tinctoria;Fabaceae
+1319;gentian, yellow;Gentiana;alba;Gentianaceae
+1318;gentian, closed bottle;Gentiana;andrewsii;Gentianaceae
+1320;gentian, downy;Gentiana;puberulenta;Gentianaceae
+1321;gentian, closed;Gentiana;rubricaulis;Gentianaceae
+1323;agueweed;Gentianella;quinquefolia;Gentianaceae
+746;fringed-gentian, greater;Gentianopsis;crinita;Gentianaceae
+1324;fringed-gentian, lesser;Gentianopsis;virgata;Gentianaceae
+642;toadflax, false;Geocaulon;lividum;Santalaceae
+425;cranesbill, Bicknell's;Geranium;bicknellii;Geraniaceae
+115;geranium, Carolina;Geranium;carolinianum;Geraniaceae
+643;cranesbill, longstalk;Geranium;columbinum;Geraniaceae
+1325;crane'sbill, spotted;Geranium;maculatum;Geraniaceae
+116;geranium, dovefoot;Geranium;molle;Geraniaceae
+1326;crane'sbill, meadow;Geranium;pratense;Geraniaceae
+277;crane's-bill, small-flowered;Geranium;pusillum;Geraniaceae
+426;geranium, Robert;Geranium;robertianum;Geraniaceae
+1327;crane's-bill, Siberian;Geranium;sibiricum;Geraniaceae
+198;avens, yellow;Geum;aleppicum;Rosaceae
+745;avens, white;Geum;canadense;Rosaceae
+1511;strawberry, Appalachian false;Geum;fragarioides;Rosaceae
+1489;avens, rough;Geum;laciniatum;Rosaceae
+427;avens, largeleaf;Geum;macrophyllum;Rosaceae
+644;avens, purple;Geum;rivale;Rosaceae
+279;whiskers, old man's;Geum;triflorum;Rosaceae
+1100;bennet, herb;Geum;urbanum;Rosaceae
+1679;avens, spring;Geum;vernum;Rosaceae
+1742;avens, cream;Geum;virginianum;Rosaceae
+1726;gilia, California;Gilia;achilleifolia;Polemoniaceae
+823;vervain, Dakota mock;Glandularia;bipinnatifida;Verbenaceae
+1694;vervain, rose mock;Glandularia;canadensis;Verbenaceae
+429;groundivy;Glechoma;hederacea;Lamiaceae
+824;honeylocust;Gleditsia;triacanthos;Fabaceae
+280;licorice, American;Glycyrrhiza;lepidota;Fabaceae
+931;cudweed, marsh;Gnaphalium;uliginosum;Asteraceae
+151;plantain, rattlesnake;Goodyera;oblongifolia;Orchidaceae
+1409;plantain, downy rattlesnake;Goodyera;pubescens;Orchidaceae
+695;plantain, lesser rattlesnake;Goodyera;repens;Orchidaceae
+1410;plantain, checkered rattlesnake;Goodyera;tesselata;Orchidaceae
+1772;hedgehyssop, golden;Gratiola;aurea;Plantaginaceae
+226;hedgehyssop, common American;Gratiola;neglecta;Plantaginaceae
+1728;gumweed, spiny-tooth;Grindelia;lanceolata;Asteraceae
+932;gumweed, curlycup;Grindelia;squarrosa;Asteraceae
+1729;niger-seed;Guizotia;abyssinica;Asteraceae
+1241;coffeetree, Kentucky;Gymnocladus;dioicus;Fabaceae
+1040;babysbreath, showy;Gypsophila;elegans;Caryophyllaceae
+1723;babysbreath, low;Gypsophila;muralis;Caryophyllaceae
+430;gypsophila, babysbreath;Gypsophila;paniculata;Caryophyllaceae
+825;babysbreath, garden;Gypsophila;scorzonerifolia;Caryophyllaceae
+645;stickseed, nodding;Hackelia;deflexa;Boraginaceae
+1228;lice, beggar's;Hackelia;virginiana;Boraginaceae
+748;spurred-gentian, American;Halenia;deflexa;Gentianaceae
+1334;witch-hazel, American;Hamamelis;virginiana;Hamamelidaceae
+1174;indian-plantain, false;Hasteola;suaveolens;Asteraceae
+750;pennyroyal, rough false;Hedeoma;hispida;Lamiaceae
+1349;pennyroyal, American false;Hedeoma;pulegioides;Lamiaceae
+1605;bitterweed;Helenium;amarum;Asteraceae
+933;sneezeweed;Helenium;autumnale;Asteraceae
+1189;sneezeweed, purplehead;Helenium;flexuosum;Asteraceae
+934;sunflower, common;Helianthus;annuus;Asteraceae
+1606;sunflower, thinleaf;Helianthus;decapetalus;Asteraceae
+1607;sunflower, woodland;Helianthus;divaricatus;Asteraceae
+1190;sunflower, giant;Helianthus;giganteus;Asteraceae
+935;sunflower, sawtooth;Helianthus;grosseserratus;Asteraceae
+1191;sunflower, whiskered;Helianthus;hirsutus;Asteraceae
+936;sunflower, Maximilian;Helianthus;maximiliani;Asteraceae
+1608;sunflower, ashy;Helianthus;mollis;Asteraceae
+1192;sunflower, few-leaf;Helianthus;occidentalis;Asteraceae
+937;sunflower, stiff;Helianthus;pauciflorus;Asteraceae
+938;sunflower, prairie;Helianthus;petiolaris;Asteraceae
+1732;sunflower, willow leaf;Helianthus;salicifolius;Asteraceae
+1193;sunflower, pale leaf woodland;Helianthus;strumosus;Asteraceae
+939;artichoke, Jerusalem;Helianthus;tuberosus;Asteraceae
+940;sunflower, heliopsis;Heliopsis;helianthoides;Asteraceae
+749;daylily, orange;Hemerocallis;fulva;Liliaceae
+1000;hogweed, giant;Heracleum;mantegazzianum;Apiaceae
+6;cowparsnip, common;Heracleum;maximum;Apiaceae
+1777;rupturewort, hairy;Herniaria;hirsuta;Caryophyllaceae
+431;rocket, dames;Hesperis;matronalis;Brassicaceae
+432;mudplantain, grassleaf;Heteranthera;dubia;Pontederiaceae
+941;goldenaster, hairy;Heterotheca;villosa;Asteraceae
+751;alumroot, Richardson's;Heuchera;richardsonii;Saxifragaceae
+1652;rosemallow, halberd-leaved;Hibiscus;laevis;Malvaceae
+1758;rosemallow, woolly;Hibiscus;moscheutos;Malvaceae
+433;flower-of-an-hour;Hibiscus;trionum;Malvaceae
+942;hawkweed, orange;Hieracium;aurantiacum;Asteraceae
+119;hawkweed, meadow;Hieracium;caespitosum;Asteraceae
+943;hawkweed, common;Hieracium;lachenalii;Asteraceae
+1194;hawkweed, hairy;Hieracium;longipilum;Asteraceae
+708;hawkweed, wall;Hieracium;murorum;Asteraceae
+944;hawkweed, mouseear;Hieracium;pilosella;Asteraceae
+144;hawkweed, king devil;Hieracium;piloselloides;Asteraceae
+709;devil, European king;Hieracium;sabaudum;Asteraceae
+1195;hawkweed, rough;Hieracium;scabrum;Asteraceae
+945;hawkweed,narrowleaf;Hieracium;umbellatum;Asteraceae
+434;marestail, common;Hippuris;vulgaris;Plantaginaceae
+66;chickweed, jagged;Holosteum;umbellatum;Caryophyllaceae
+1748;bluets, azure;Houstonia;caerulea;Rubiaceae
+1515;bluet, longleaf summer;Houstonia;longifolia;Rubiaceae
+1258;goldenheather, sand;Hudsonia;tomentosa;Cistaceae
+1654;hop, Japanese;Humulus;japonicus;Cannabaceae
+752;hop, common;Humulus;lupulus;Cannabaceae
+1769;violet, eastern green;Hybanthus;concolor;Violaceae
+1468;goldenseal;Hydrastis;canadensis;Ranunculaceae
+194;hydrilla;Hydrilla;verticillata;Hydrocharitaceae
+1126;marshpennywort, American;Hydrocotyle;americana;Apiaceae
+1337;waterleaf, great;Hydrophyllum;appendiculatum;Boraginaceae
+1338;waterleaf, Virginia;Hydrophyllum;virginianum;Boraginaceae
+1295;ticktrefoil, pointed leaf;Hylodesmum;glutinosum;Fabaceae
+1297;ticktrefoil, naked flower;Hylodesmum;nudiflorum;Fabaceae
+1613;stonecrop, garden;Hylotelephium;erythrostictum;Crassulaceae
+1621;stonecrop, showy;Hylotelephium;spectabile;Crassulaceae
+712;moneybags, witch's;Hylotelephium;telephium;Crassulaceae
+1262;St. John's wort, great;Hypericum;ascyron;Hypericaceae
+199;St. John's wort, northern;Hypericum;boreale;Hypericaceae
+208;St. John's wort, Canada;Hypericum;canadense;Hypericaceae
+210;St. John's wort, pale;Hypericum;ellipticum;Hypericaceae
+1643;orangegrass or pineweed;Hypericum;gentianoides;Hypericaceae
+1676;St. John's wort, Kalm's;Hypericum;kalmianum;Hypericaceae
+284;St. John's wort, large;Hypericum;majus;Hypericaceae
+223;St. John's wort, dwarf;Hypericum;mutilum;Hypericaceae
+122;Klamathweed;Hypericum;perforatum;Hypericaceae
+1644;St. John's wort, shrubby;Hypericum;prolificum;Hypericaceae
+1261;St. John's wort, spotted;Hypericum;punctatum;Hypericaceae
+1645;St. John's wort, round seed;Hypericum;sphaerocarpum;Hypericaceae
+946;cat's ear, spotted;Hypochaeris;radicata;Asteraceae
+79;pinesap;Hypopitys;monotropa;Ericaceae
+1041;goldstar, common;Hypoxis;hirsuta;Liliaceae
+753;hyssop;Hyssopus;officinalis;Lamiaceae
+1044;candytuft, globe;Iberis;umbellata;Brassicaceae
+1137;catberry;Ilex;mucronatus;Aquifoliaceae
+1593;winterberry, common;Ilex;verticillata;Aquifoliaceae
+1463;touch-me-not, Balfour's;Impatiens;balfourii;Balsaminaceae
+1478;balsam;Impatiens;balsamina;Balsaminaceae
+435;jewelweed, orange;Impatiens;capensis;Balsaminaceae
+436;jewelweed, ornamental;Impatiens;glandulifera;Balsaminaceae
+1216;touch-me-not, pale;Impatiens;pallida;Balsaminaceae
+947;inula, elecampane;Inula;helenium;Asteraceae
+1239;rocket, purple;Iodanthus;pinnatifidus;Brassicaceae
+1598;aster, flax-leaved;Ionactis;linariifolius;Asteraceae
+1266;morningglory, ivy leafed;Ipomoea;hederacea;Convolvulaceae
+1622;whitestar;Ipomoea;lacunosa;Convolvulaceae
+1102;morningglory, tall;Ipomoea;purpurea;Convolvulaceae
+1661;cypress, standing;Ipomopsis;rubra;Polemoniaceae
+1701;lily, blackberry;Iris;domestica;Iridaceae
+1103;iris, German;Iris;germanica;Iridaceae
+1685;iris, dwarf lake;Iris;lacustris;Iridaceae
+437;iris, pale yellow;Iris;pseudacorus;Iridaceae
+1752;iris, dwarf bearded;Iris;pumila;Iridaceae
+747;flag, blue;Iris;versicolor;Iridaceae
+1339;iris, Virginia;Iris;virginica;Iridaceae
+1042;marshelder, annual;Iva;annua;Asteraceae
+948;poverty weed;Iva;axillaris;Asteraceae
+1218;twinleaf;Jeffersonia;diphylla;Berberidaceae
+1344;walnut, white;Juglans;cinerea;Juglandaceae
+1104;walnut, black;Juglans;nigra;Juglandaceae
+1588;water-willow, American;Justicia;americana;Acanthaceae
+438;laurel, bog;Kalmia;polifolia;Ericaceae
+439;cancerwort, sharpleaf;Kickxia;elatine;Plantaginaceae
+440;cancerwort, roundleaf;Kickxia;spuria;Plantaginaceae
+696;scabiosa, field;Knautia;arvensis;Dipsacaceae
+441;greenmolly;Kochia;americana;Chenopodiaceae
+1043;dandelion, two flower dwarf;Krigia;biflora;Asteraceae
+738;dandelion, Virginia dwarf;Krigia;virginica;Asteraceae
+1630;clover, Korean;Kummerowia;stipulacea;Fabaceae
+950;lettuce, tall blue;Lactuca;biennis;Asteraceae
+951;lettuce, Canada;Lactuca;canadensis;Asteraceae
+1196;lettuce, woodland;Lactuca;floridana;Asteraceae
+1819;lettuce, hirsute;Lactuca;hirsuta;Asteraceae
+952;lettuce, biannual;Lactuca;ludoviciana;Asteraceae
+953;lettuce, prickly;Lactuca;serriola;Asteraceae
+954;lettuce, blue;Lactuca;tatarica;Asteraceae
+1781;archangel, yellow;Lamiastrum;galeobdolon;Lamiaceae
+442;deadnettle, henbit;Lamium;amplexicaule;Lamiaceae
+443;henbit, spotted;Lamium;maculatum;Lamiaceae
+444;deadnettle, purple;Lamium;purpureum;Lamiaceae
+1566;nettle, Canadian wood;Laportea;canadensis;Urticaceae
+17;stickseed, western;Lappula;occidentalis;Boraginaceae
+338;stickseed, European;Lappula;squarrosa;Boraginaceae
+955;nipplewort;Lapsana;communis;Asteraceae
+445;peavine, sea;Lathyrus;japonicus;Fabaceae
+92;peavine/sweetpea, perennial;Lathyrus;latifolius;Fabaceae
+646;peavine, cream;Lathyrus;ochroleucus;Fabaceae
+93;peavine, slenderstem;Lathyrus;palustris;Fabaceae
+647;peavine, meadow;Lathyrus;pratensis;Fabaceae
+447;peavine, flat;Lathyrus;sylvestris;Fabaceae
+648;sweetpea, tuberous;Lathyrus;tuberosus;Fabaceae
+1298;peavine, veiny;Lathyrus;venosus;Fabaceae
+828;pinweed, largepod;Lechea;intermedia;Cistaceae
+1259;pinweed, prairie;Lechea;stricta;Cistaceae
+1260;pinweed, narrowleaf;Lechea;tenuifolia;Cistaceae
+1716;duckweed, equinox;Lemna;aequinoctialis;Araceae
+135;lentil, water;Lemna;minor;Araceae
+1110;duckweed, little;Lemna;obscura;Araceae
+1361;duckweed, minute;Lemna;perpusilla;Araceae
+449;duckweed, star;Lemna;trisulca;Araceae
+697;duckweed, turion;Lemna;turionifera;Araceae
+956;dandelion, fall;Leontodon;autumnalis;Asteraceae
+957;hawkbit, rough;Leontodon;saxatilis;Asteraceae
+649;motherwort, common;Leonurus;cardiaca;Lamiaceae
+372;whitetop, hairy;Lepidium;appelianum;Brassicaceae
+37;pepperweed, field;Lepidium;campestre;Brassicaceae
+287;peppergrass, prairie;Lepidium;densiflorum;Brassicaceae
+392;swinecress, lesser;Lepidium;didymum;Brassicaceae
+34;top, white;Lepidium;draba;Brassicaceae
+450;pepperweed, broadleaved;Lepidium;latifolium;Brassicaceae
+38;peppergrass, clasping;Lepidium;perfoliatum;Brassicaceae
+451;pepperweed, roadside;Lepidium;ruderale;Brassicaceae
+288;pepper-grass, tall;Lepidium;virginicum;Brassicaceae
+1299;bushclover, round head;Lespedeza;capitata;Fabaceae
+1631;bushclover, Chinese;Lespedeza;cuneata;Fabaceae
+1300;bushclover, prairie;Lespedeza;leptostachya;Fabaceae
+1744;bushclover, trailing;Lespedeza;procumbens;Fabaceae
+1632;bushclover, creeping;Lespedeza;repens;Fabaceae
+1640;bush-clover, shrubby;Lespedeza;thunbergii;Fabaceae
+1633;bushclover, violet;Lespedeza;violacea;Fabaceae
+1301;bushclover, slender;Lespedeza;virginica;Fabaceae
+1197;giant-daisy;Leucanthemella;serotina;Asteraceae
+958;daisy, oxeye;Leucanthemum;vulgare;Asteraceae
+1556;groundcherry, large false;Leucophysalis;grandiflora;Solanaceae
+1198;gayfeather, tall;Liatris;aspera;Asteraceae
+1199;gayfeather, Ontario;Liatris;cylindracea;Asteraceae
+959;gayfeather, Rocky Mountain;Liatris;ligulistylis;Asteraceae
+960;gayfeather, dotted;Liatris;punctata;Asteraceae
+1200;gayfeather, cattail;Liatris;pycnostachya;Asteraceae
+1393;gayfeather, dense;Liatris;spicata;Asteraceae
+1071;privet, common;Ligustrum;vulgare;Oleaceae
+1371;tigerlily, lance-leaf;Lilium;lancifolium;Liliaceae
+1372;lily, Michigan;Lilium;michiganense;Liliaceae
+463;lily, wood;Lilium;philadelphicum;Liliaceae
+227;toadflax, Dalmatian;Linaria;dalmatica;Plantaginaceae
+228;butter-and-eggs;Linaria;vulgaris;Plantaginaceae
+454;pimpernel, moistbank;Lindernia;dubia;Plantaginaceae
+57;twinflower;Linnaea;borealis;Linnaeaceae
+138;flax, wild blue;Linum;lewisii;Linaceae
+1755;flax, sucker;Linum;medium;Linaceae
+756;flax, stiffstem;Linum;rigidum;Linaceae
+1381;flax, grooved yellow;Linum;sulcatum;Linaceae
+455;flax, common;Linum;usitatissimum;Linaceae
+1411;orchid, brown widelip;Liparis;liliifolia;Orchidaceae
+650;orchid, yellow widelip;Liparis;loeselii;Orchidaceae
+1412;twayblade, auricled;Listera;auriculata;Orchidaceae
+152;twayblade, broadlipped;Listera;convallarioides;Orchidaceae
+153;twayblade, heartleaf;Listera;cordata;Orchidaceae
+1229;puccoon, hairy;Lithospermum;canescens;Boraginaceae
+755;puccoon, hairy;Lithospermum;caroliniense;Boraginaceae
+464;gromwell, yellow;Lithospermum;incisum;Boraginaceae
+1230;gromwell, American;Lithospermum;latifolium;Boraginaceae
+1481;gromwell, European;Lithospermum;officinale;Boraginaceae
+1427;shoreweed, American;Littorella;uniflora;Plantaginaceae
+1045;cardinalflower;Lobelia;cardinalis;Campanulaceae
+651;cardinalflower, Dortmann's;Lobelia;dortmanna;Campanulaceae
+456;lobellia, edging;Lobelia;erinus;Campanulaceae
+1047;tobacco, Indian;Lobelia;inflata;Campanulaceae
+652;lobelia, Ontario;Lobelia;kalmii;Campanulaceae
+832;lobelia, great blue;Lobelia;siphilitica;Campanulaceae
+758;lobelia, palespike;Lobelia;spicata;Campanulaceae
+457;lobularia, seaside;Lobularia;maritima;Brassicaceae
+830;honeysuckle, whitebell;Lonicera;bella X;Caprifoliaceae
+1245;honeysuckle, American fly;Lonicera;canadensis;Caprifoliaceae
+465;honeysuckle, red;Lonicera;dioica;Caprifoliaceae
+1246;honeysuckle, hairy;Lonicera;hirsuta;Caprifoliaceae
+58;twinberry, black;Lonicera;involucrata;Caprifoliaceae
+1115;honeysuckle, Japanese;Lonicera;japonica;Caprifoliaceae
+1580;honeysuckle, amur;Lonicera;maackii;Caprifoliaceae
+831;honeysuckle, Morrow's;Lonicera;morrowii;Caprifoliaceae
+1247;honeysuckle, swamp fly;Lonicera;oblongifolia;Caprifoliaceae
+1248;honeysuckle, grape;Lonicera;reticulata;Caprifoliaceae
+759;honeysuckle, Tatarian;Lonicera;tatarica;Caprifoliaceae
+1249;honeysuckle, mountain fly;Lonicera;villosa;Caprifoliaceae
+458;honeysuckle, dwarf;Lonicera;xylosteum;Caprifoliaceae
+757;deervetch, birdfoot;Lotus;corniculatus;Fabaceae
+1656;seedbox;Ludwigia;alternifolia;Onagraceae
+459;seedbox, marsh;Ludwigia;palustris;Onagraceae
+698;primrosewillow, manyfruit;Ludwigia;polycarpa;Onagraceae
+1302;lupine, sundial;Lupinus;perennis;Fabaceae
+95;lupine, big leaf;Lupinus;polyphyllus;Fabaceae
+467;matrimonyvine;Lycium;barbarum;Solanaceae
+468;waterhorehound, American;Lycopus;americanus;Lamiaceae
+469;bugleweed, rough;Lycopus;asper;Lamiaceae
+1068;horehound, European;Lycopus;europaeus;Lamiaceae
+289;bugleweed;Lycopus;uniflorus;Lamiaceae
+1352;waterhorehound, Virginia;Lycopus;virginicus;Lamiaceae
+961;skeletonplant, rush;Lygodesmia;juncea;Asteraceae
+343;pimpernel, scarlet;Lysimachia;arvensis;Myrsinaceae
+470;loosestrife, fringed;Lysimachia;ciliata;Myrsinaceae
+1667;loosestrife, goose-necked yellow;Lysimachia;clethroides;Myrsinaceae
+471;loosestrife, lowland yellow;Lysimachia;hybrida;Myrsinaceae
+1668;loosestrife, lance leaf yellow;Lysimachia;lanceolata;Myrsinaceae
+472;jenny, creeping;Lysimachia;nummularia;Myrsinaceae
+473;loosestrife, large yellow;Lysimachia;punctata;Myrsinaceae
+1457;loosestrife, four-flower yellow;Lysimachia;quadriflora;Myrsinaceae
+1820;loosestrife, whorled yellow;Lysimachia;quadrifolia;Myrsinaceae
+474;loosestrife, earth;Lysimachia;terrestris;Myrsinaceae
+475;loosestrife, tufted;Lysimachia;thyrsiflora;Myrsinaceae
+1048;loosestrife, garden yellow;Lysimachia;vulgaris;Myrsinaceae
+518;loosestrife, winged;Lythrum;alatum;Lythraceae
+476;loosestrife, hyssop;Lythrum;hyssopifolium;Lythraceae
+290;loosestrife, purple;Lythrum;salicaria;Lythraceae
+291;orange, Osage;Maclura;pomifera;Moraceae
+962;tarweed, cluster;Madia;glomerata;Asteraceae
+963;tarweed, coast;Madia;sativa;Asteraceae
+466;lily-of-the-valley, wild;Maianthemum;canadense;Ruscaceae
+131;Solomon's seal, feather;Maianthemum;racemosum;Ruscaceae
+132;Solomon's seal, starry false;Maianthemum;stellatum;Ruscaceae
+321;Solomon's seal, three-leaved;Maianthemum;trifolium;Ruscaceae
+1049;orchid, white adder's mouth;Malaxis;monophyllos, ssp. brachypoda;Orchidaceae
+1413;orchid, green adder's mouth;Malaxis;unifolia;Orchidaceae
+1821;Virginia-stock;Malcolmia;maritima;Brassicaceae
+833;crabapple, sweet;Malus;coronaria;Rosaceae
+1495;crabapple, prairie;Malus;ioensis;Rosaceae
+200;apple, common;Malus;pumila;Rosaceae
+1743;crabapple, Toringo;Malus;sieboldii;Rosaceae
+1712;mallow, vervain;Malva;alcea;Malvaceae
+477;mallow, musk;Malva;moschata;Malvaceae
+139;mallow, dwarf;Malva;neglecta;Malvaceae
+834;mallow, roundleaf;Malva;rotundifolia;Malvaceae
+478;mallow, high;Malva;sylvestris;Malvaceae
+835;mallow, cluster;Malva;verticillata;Malvaceae
+124;horehound, common;Marrubium;vulgare;Lamiaceae
+1004;mayweed, scentless;Matricaria;chamomilla;Asteraceae
+964;pineapple weed;Matricaria;discoidea;Asteraceae
+965;chamomile, wild;Matricaria;recutita;Asteraceae
+479;mazus, Japanese;Mazus;pumilus;Phrymaceae
+1709;cucumber-root, Indian;Medeola;virginiana;Liliaceae
+96;medic, black;Medicago;lupulina;Fabaceae
+29;alfalfa;Medicago;sativa;Fabaceae
+654;cowwheat, narrowleaf;Melampyrum;lineare;Orobanchaceae
+1822;sweetclover, tall yellow;Melilotus;altissimus;Fabaceae
+480;sweetclover, annual yellow;Melilotus;indicus;Fabaceae
+97;sweetclover, common;Melilotus;officinalis;Fabaceae
+1384;moonseed, Canada;Menispermum;canadense;Menispermaceae
+126;balm, lemon;Mentha;aquatica;Lamiaceae
+125;mint, field;Mentha;arvensis;Lamiaceae
+482;peppermint;Mentha;piperita X;Lamiaceae
+483;mint, apple-scented;Mentha;rotundifolia X;Lamiaceae
+127;spearmint;Mentha;spicata;Lamiaceae
+1778;mint, apple;Mentha;suaveolens;Lamiaceae
+484;mint, hairy;Mentha;villosa X;Lamiaceae
+140;buckbean;Menyanthes;trifoliata;Menyanthaceae
+19;bluebells, tall;Mertensia;paniculata;Boraginaceae
+1231;bluebells, Virginia;Mertensia;virginica;Boraginaceae
+1530;saxifrage, eastern swamp;Micranthes;pensylvanica;Saxifragaceae
+1634;mimosa, Nuttall's;Mimosa;quadrivalvis;Fabaceae
+761;monkeyflower, roundleaf;Mimulus;glabratus;Phrymaceae
+699;monkeyflower, ringen;Mimulus;ringens;Phrymaceae
+837;stitchwort, rock;Minuartia;dawsonensis;Caryophyllaceae
+485;stitchwort, Michaux's;Minuartia;michauxii;Caryophyllaceae
+1053;four-o'clock, white;Mirabilis;albida;Nyctaginaceae
+700;four-o'clock, heartleaf;Mirabilis;nyctaginea;Nyctaginaceae
+1516;partridge-berry;Mitchella;repens;Rubiaceae
+1527;miterwort, two-leaf;Mitella;diphylla;Saxifragaceae
+655;miterwort, naked;Mitella;nuda;Saxifragaceae
+255;sandwort, blunt-leaf;Moehringia;lateriflora;Caryophyllaceae
+61;sandwort, bigleaf;Moehringia;macrophylla;Caryophyllaceae
+292;carpetweed;Mollugo;verticillata;Molluginaceae
+486;shellflower;Moluccella;laevis;Lamiaceae
+487;beebalm, scarlet;Monarda;didyma;Lamiaceae
+701;beebalm, wildbergamot;Monarda;fistulosa;Lamiaceae
+1354;beebalm, spotted;Monarda;punctata;Lamiaceae
+87;woodnymph;Moneses;uniflora;Ericaceae
+80;pipe, Indian;Monotropa;uniflora;Ericaceae
+293;mulberry;Morus;alba;Moraceae
+1386;mulberry, red;Morus;rubra;Moraceae
+1130;grapehyacinth, common;Muscari;botryoides;Liliaceae
+1754;grapehyacinth, starch;Muscari;neglectum;Liliaceae
+294;forget-me-not, field;Myosotis;arvensis;Boraginaceae
+20;forget-me-not, yellow and blue;Myosotis;discolor;Boraginaceae
+656;forget-me-not, woodland;Myosotis;latifolia;Boraginaceae
+295;forget-me-not, small-flowered;Myosotis;laxa;Boraginaceae
+22;forget-me-not, common;Myosotis;scorpioides;Boraginaceae
+21;scorpion-grass, blue;Myosotis;stricta;Boraginaceae
+488;forget-me-not, spring;Myosotis;verna;Boraginaceae
+1052;chickweed, giant;Myosoton;aquaticum;Caryophyllaceae
+182;mousetail, least;Myosurus;minimus;Ranunculaceae
+331;sweetgale;Myrica;gale;Myricaceae
+1331;watermilfoil, alternate flower;Myriophyllum;alterniflorum;Haloragaceae
+272;watermilfoil, Farwell's;Myriophyllum;farwellii;Haloragaceae
+1332;watermilfoil, two leaf;Myriophyllum;heterophyllum;Haloragaceae
+1671;water-milfoil;Myriophyllum;humile;Haloragaceae
+337;watermilfoil, spiked;Myriophyllum;sibiricum;Haloragaceae
+1065;watermilfoil, Eurasian;Myriophyllum;spicatum;Haloragaceae
+1333;watermilfoil, slender;Myriophyllum;tenellum;Haloragaceae
+489;watermilfoil, whorlleaf;Myriophyllum;verticillatum;Haloragaceae
+490;waternymph, nodding;Najas;flexilis;Najadaceae
+1388;waternymph, slender;Najas;gracillima;Najadaceae
+491;waternymph, southern;Najas;guadalupensis;Najadaceae
+1133;watermaid, spiny;Najas;marina;Najadaceae
+1823;watermaid, brittle;Najas;minor;Najadaceae
+1383;mallow, glade;Napaea;dioica;Malvaceae
+1046;watercress, one-rowed;Nasturtium;microphylla;Brassicaceae
+40;watercress;Nasturtium;officinale;Brassicaceae
+1389;waterlily, American;Nelumbo;lutea;Nelumbonaceae
+128;catnip;Nepeta;cataria;Lamiaceae
+838;catmint;Nepeta;racemosa;Lamiaceae
+657;ballmustard;Neslia;paniculata;Brassicaceae
+702;apple-of-Peru;Nicandra;physalodes;Solanaceae
+1762;tobacco, Aztec;Nicotiana;rustica;Solanaceae
+967;microseris, sharppoint;Nothocalais;cuspidata;Asteraceae
+1760;pond-lily, spatter dock;Nuphar;advena;Nymphaeaceae
+1390;lily, Indian pond;Nuphar;microphylla;Nymphaeaceae
+191;lily, Indian pond;Nuphar;variegata;Nymphaeaceae
+492;toadflax, Canada;Nuttallanthus;canadensis;Plantaginaceae
+493;waterlily, American white;Nymphaea;odorata;Nymphaeaceae
+1713;gum, black;Nyssa;sylvatica;Cornaceae
+1751;odontites, red;Odontites;verna;Scrophulariaceae
+494;parsley, water;Oenanthe;sarmentosa;Apiaceae
+336;primrose, common evening;Oenothera;biennis;Onagraceae
+1396;primrose, lesser four-point evening;Oenothera;clelandii;Onagraceae
+276;gaura, small-flowered;Oenothera;curtiflora;Onagraceae
+1036;beeblossom, long flower;Oenothera;filiformis;Onagraceae
+1824;beeblossom, biennial;Oenothera;gaura;Onagraceae
+495;primrose, red sepal evening;Oenothera;glazioviana;Onagraceae
+839;primrose, cutleaf evening;Oenothera;laciniata;Onagraceae
+762;primrose, Nuttall's evening;Oenothera;nuttallii;Onagraceae
+1397;primrose, Oakes' evening;Oenothera;oakesiana;Onagraceae
+1398;primrose, northern evening;Oenothera;parviflora;Onagraceae
+763;primrose, small evening;Oenothera;perennis;Onagraceae
+1657;sundrops, prairie;Oenothera;pilosella;Onagraceae
+1399;primrose, greater four-point evening;Oenothera;rhombipetala;Onagraceae
+640;beeblossom, scarlet;Oenothera;suffrutescens;Onagraceae
+541;primrose, hairy evening;Oenothera;villosa;Onagraceae
+692;cudweed, woodland;Omalotheca;sylvaticum;Asteraceae
+98;holyclover;Onobrychis;viciifolia;Fabaceae
+970;cottonthistle;Onopordum;acanthium;Asteraceae
+764;onosmodium, smooth;Onosmodium;molle;Boraginaceae
+496;pricklypear, brittle;Opuntia;fragilis;Cactaceae
+765;pricklypear, eastern;Opuntia;humifusa;Cactaceae
+703;pricklypear, twistspine;Opuntia;macrorhiza;Cactaceae
+497;marjoram, wild;Origanum;vulgare;Lamiaceae
+498;sleepydick;Ornithogalum;umbellatum;Liliaceae
+155;broomrape, clustered;Orobanche;fasciculata;Orobanchaceae
+296;broomrape, Sukdorf's;Orobanche;ludoviciana;Orobanchaceae
+156;broomrape, one-flowered;Orobanche;uniflora;Orobanchaceae
+86;pyrola, sidebells;Orthilia;secunda;Ericaceae
+8;sweet-cicely, mountain;Osmorhiza;berteroi;Apiaceae
+1127;sweet-cicely, hairy;Osmorhiza;claytonii;Apiaceae
+766;sweetroot, longstyle;Osmorhiza;longistylis;Apiaceae
+840;hophornbeam, eastern;Ostrya;virginiana;Betulaceae
+1425;sleeping-beauty;Oxalis;acetosella;Oxalidaceae
+501;woodsorrel, creeping;Oxalis;corniculata;Oxalidaceae
+502;oxalis, Dillen's;Oxalis;dillenii;Oxalidaceae
+658;oxalis, common yellow;Oxalis;stricta;Oxalidaceae
+503;woodsorrel, violet;Oxalis;violacea;Oxalidaceae
+1128;cowbane, stiff;Oxypolis;rigidior;Apiaceae
+99;crazyweed, slender;Oxytropis;campestris;Fabaceae
+1825;spurge, Japanese;Pachysandra;terminalis;Buxaceae
+1207;groundsel, golden;Packera;aurea;Asteraceae
+977;groundsel, plain;Packera;indecora;Asteraceae
+978;butterweed, showy;Packera;paupercula;Asteraceae
+979;butterweed, plains;Packera;plattensis;Asteraceae
+980;butterweed, streambank;Packera;pseudaurea;Asteraceae
+1143;ginseng, American;Panax;quinquefolius;Araliaceae
+1144;ginseng, dwarf;Panax;trifolius;Araliaceae
+420;poppy, oriental;Papaver;orientale;Papaveraceae
+504;poppy, corn;Papaver;rhoeas;Papaveraceae
+505;poppy, opium;Papaver;somniferum;Papaveraceae
+247;pellitory;Parietaria;pensylvanica;Urticaceae
+1528;grass-of-Parnassas, fen;Parnassia;glauca;Parnassiaceae
+481;grass-of-Parnassus, northern;Parnassia;palustris;Parnassiaceae
+704;grass-of-Parnassus, smallflower;Parnassia;parviflora;Parnassiaceae
+1253;nailwort, smooth forked;Paronychia;canadensis;Caryophyllaceae
+1254;nailwort, hairy forked;Paronychia;fastigiata;Caryophyllaceae
+1201;quinine, wild;Parthenium;integrifolium;Asteraceae
+1058;creeper, Virginia;Parthenocissus;quinquefolia;Vitaceae
+1578;ivy, Boston;Parthenocissus;tricuspidata;Vitaceae
+767;woodbine;Parthenocissus;vitacea;Vitaceae
+506;parsnip, wild;Pastinaca;sativa;Apiaceae
+1059;lousewort, Canadian;Pedicularis;canadensis;Orobanchaceae
+1547;lousewort, swamp;Pedicularis;lanceolata;Orobanchaceae
+768;scurfpea, silverleaf;Pediomelum;argophyllum;Fabaceae
+769;scurfpea, breadroot;Pediomelum;esculentum;Fabaceae
+1140;arrow-arum, green;Peltandra;virginica;Araceae
+1548;beardtongue, foxglove;Penstemon;digitalis;Plantaginaceae
+770;penstemon, lilac;Penstemon;gracilis;Plantaginaceae
+841;beardtongue, large;Penstemon;grandiflorus;Plantaginaceae
+1753;beardtongue, hairy;Penstemon;hirsutus;Plantaginaceae
+1549;beardtongue, pale;Penstemon;pallidus;Plantaginaceae
+1692;beardtongue, white wand;Penstemon;tubaeflorus;Plantaginaceae
+1529;stonecrop, ditch;Penthorum;sedoides;Saxifragaceae
+1355;beefsteakplant;Perilla;frutescens;Lamiaceae
+385;beeplant, Rocky Mountain;Peritoma;serrulata;Cleomaceae
+160;smartweed, water;Persicaria;amphibia;Polygonaceae
+1438;tearthumb, halbard-leaf;Persicaria;arifolia;Polygonaceae
+1439;smartweed, Carey's;Persicaria;careyi;Polygonaceae
+299;knotweed, marshpepper;Persicaria;hydropiper;Polygonaceae
+522;smartweed, swamp;Persicaria;hydropiperoides;Polygonaceae
+300;willow-weed;Persicaria;lapathifolia;Polygonaceae
+523;ladysthumb, spotted;Persicaria;maculosa;Polygonaceae
+1731;kiss-me-over-the-garden-gate;Persicaria;orientalis;Polygonaceae
+777;smartweed, Pennsylvania;Persicaria;pensylvanica;Polygonaceae
+524;smartweed, dotted;Persicaria;punctata;Polygonaceae
+1063;tearthumb, arrowleaf;Persicaria;sagittata;Polygonaceae
+1442;jumpseed;Persicaria;virginiana;Polygonaceae
+971;coltsfoot, arctic sweet;Petasites;frigidus;Asteraceae
+705;pink, saxifrage;Petrorhagia;saxifraga;Caryophyllaceae
+1826;petunia, large white;Petunia;axillaris;Solanaceae
+1827;petunia, violet flower;Petunia;integrifolia;Solanaceae
+1675;phacelia, distant;Phacelia;distans;Boraginaceae
+1449;fameflower, prairie;Phemeranthus;rugospermus;Montiaceae
+1336;mockorange, sweet;Philadelphus;coronarius;Hydrangeaceae
+1662;phlox, cleft;Phlox;bifida;Polemoniaceae
+1428;phlox, wild blue;Phlox;divaricata;Polemoniaceae
+1730;phlox, smooth;Phlox;glaberrima;Polemoniaceae
+1429;phlox, fall;Phlox;paniculata;Polemoniaceae
+1430;phlox, downy;Phlox;pilosa;Polemoniaceae
+1431;phlox, moss;Phlox;subulata;Polemoniaceae
+843;lopseed, American;Phryma;leptostachya;Phrymaceae
+1060;frogfruit, lance leaf;Phyla;lanceolata;Verbenaceae
+1763;lantern-plant, Chinese;Physalis;alkekengi;Solanaceae
+706;groundcherry, clammy;Physalis;heterophylla;Solanaceae
+660;groundcherry, prairie;Physalis;hispida;Solanaceae
+297;ground-cherry, long-leaved;Physalis;longifolia;Solanaceae
+511;ground-cherry, Mexican;Physalis;philadelphica;Solanaceae
+512;tomato, strawberry;Physalis;pruinosa;Solanaceae
+844;groundcherry, Virginia;Physalis;virginiana;Solanaceae
+754;bladderpod, foothill;Physaria;ludoviciana;Brassicaceae
+1061;ninebark, common;Physocarpus;opulifolius;Rosaceae
+773;obedient-plant;Physostegia;virginiana;Lamiaceae
+513;pokeweed, American;Phytolacca;americana;Phytolaccaceae
+1721;pokeweed;Phytolacca;icosandra;Phytolaccaceae
+1567;clearweed, lesser;Pilea;fontana;Urticaceae
+1568;clearweed, Canadian;Pilea;pumila;Urticaceae
+661;saxifrage, solidstem burnet;Pimpinella;saxifraga;Apiaceae
+298;butterwort, common;Pinguicula;vulgaris;Lentibulariaceae
+23;popcornflower, Scouler's;Plagiobothrys;scouleri;Boraginaceae
+515;plantain, whorled;Plantago;arenaria;Plantaginaceae
+514;plantain, large-bracted;Plantago;aristata;Plantaginaceae
+1722;plantain, heart-leaved;Plantago;cordata;Plantaginaceae
+177;plantain, English;Plantago;lanceolata;Plantaginaceae
+178;plantain, nippleseed;Plantago;major;Plantaginaceae
+1073;plantain, hoary;Plantago;media;Plantaginaceae
+179;indianwheat, Patagonia;Plantago;patagonica;Plantaginaceae
+774;plantain, blackseed;Plantago;rugelii;Plantaginaceae
+516;plantain, Virginia;Plantago;virginica;Plantaginaceae
+282;orchid, green bog;Platanthera;aquilonius;Orchidaceae
+1414;orchid, green woodland;Platanthera;clavellata;Orchidaceae
+281;orchid, white bog;Platanthera;dilatata, ssp. dilatata;Orchidaceae
+1415;orchid, pale green;Platanthera;flava;Orchidaceae
+1416;orchid, Hooker's;Platanthera;hookeri;Orchidaceae
+1105;rein orchid, Great Lakes;Platanthera;huronensis;Orchidaceae
+1417;orchid, green fringed;Platanthera;lacera;Orchidaceae
+1705;orchid, eastern prairie fringed;Platanthera;leucophaea;Orchidaceae
+1715;orchid, large round-leaved;Platanthera;macrophylla;Orchidaceae
+283;orchid, small northern bog;Platanthera;obtusata;Orchidaceae
+662;orchid, large roundleaved;Platanthera;orbiculata;Orchidaceae
+1418;orchid, lesser purple fringed;Platanthera;psycodes;Orchidaceae
+1660;sycamore, American;Platanus;occidentalis;Platanaceae
+1727;knapweed, American;Plectocephalus;americanus;Asteraceae
+1734;fleabane, camphor marsh;Pluchea;camphorata;Asteraceae
+1219;May-apple;Podophyllum;peltatum;Berberidaceae
+1420;orchid, snake mouth;Pogonia;ophioglossoides;Orchidaceae
+517;clammyweed, roughseed;Polanisia;dodecandra;Cleomaceae
+1062;clammyweed, James';Polanisia;jamesii;Cleomaceae
+170;polemonium, western;Polemonium;occidentale;Polemoniaceae
+1432;valarian, Greek;Polemonium;reptans;Polemoniaceae
+1433;drumheads;Polygala;cruciata;Polygalaceae
+1663;milkwort, pink;Polygala;incarnata;Polygalaceae
+1434;gaywings;Polygala;paucifolia;Polygalaceae
+1435;milkwort, racemed;Polygala;polygama;Polygalaceae
+1436;milkwort, purple;Polygala;sanguinea;Polygalaceae
+849;snakeroot, Seneca;Polygala;senega;Polygalaceae
+850;milkwort, whorled;Polygala;verticillata;Polygalaceae
+845;seal, King Solomon's;Polygonatum;biflorum;Liliaceae
+1373;seal, hairy Solomon's;Polygonatum;pubescens;Liliaceae
+1437;jointweed, coastal;Polygonella;articulata;Polygonaceae
+332;knotweed, prostrate;Polygonum;achoreum;Polygonaceae
+421;knotweed, sandstar;Polygonum;arenastrum;Polygonaceae
+161;knotweed, prostrate;Polygonum;aviculare;Polygonaceae
+519;knotweed, box;Polygonum;buxiforme;Polygonaceae
+1664;smartweed, creeping;Polygonum;caespitosum;Polygonaceae
+162;knotweed, erect;Polygonum;erectum;Polygonaceae
+525;knotweed, bushy;Polygonum;ramosissimum;Polygonaceae
+1441;knotweed, pleat-leaf;Polygonum;tenue;Polygonaceae
+1202;leaf-cup, white flower;Polymnia;canadensis;Asteraceae
+1129;prairie-parsley, Nuttall's;Polytaenia;nuttallii;Apiaceae
+1446;pickerelweed;Pontederia;cordata;Pontederiaceae
+7;cottonwood, silvery;Populus;alba;Salicaceae
+1792;poplar, balsam;Populus;balsamifera;Salicaceae
+775;cottonwood, eastern;Populus;deltoides;Salicaceae
+1518;aspen, big-tooth;Populus;grandidentata;Salicaceae
+846;poplar, Jack's;Populus;jackii X;Salicaceae
+847;poplar, Lombardy;Populus;nigra;Salicaceae
+215;aspen, quaking;Populus;tremuloides;Salicaceae
+1666;moss-rose;Portulaca;grandiflora;Portulacaceae
+528;hogweed, little;Portulaca;oleracea;Portulacaceae
+322;pondweed, northern;Potamogeton;alpinus;Potamogetonaceae
+323;pondweed, long-leaved;Potamogeton;amplifolius;Potamogetonaceae
+1450;pondweed, snailseed;Potamogeton;bicupulatus;Potamogetonaceae
+1733;pondweed, alga;Potamogeton;confervoides;Potamogetonaceae
+529;pondweed, curly;Potamogeton;crispus;Potamogetonaceae
+530;pondweed, waterthread;Potamogeton;diversifolius;Potamogetonaceae
+531;pondweed, ribbonleaf;Potamogeton;epihydrus;Potamogetonaceae
+533;pondweed, leafy;Potamogeton;foliosus;Potamogetonaceae
+663;pondweed, Fries';Potamogeton;friesii;Potamogetonaceae
+534;pondweed, variableleaf;Potamogeton;gramineus;Potamogetonaceae
+1738;pondweed, hill's;Potamogeton;hillii;Potamogetonaceae
+535;pondweed, Illinois;Potamogeton;illinoensis;Potamogetonaceae
+172;pondweed, floatingleaf;Potamogeton;natans;Potamogetonaceae
+173;pondweed, long-leaved;Potamogeton;nodosus;Potamogetonaceae
+1106;pondweed, Oakes';Potamogeton;oakesianus;Potamogetonaceae
+664;pondweed, bluntleaf;Potamogeton;obtusifolius;Potamogetonaceae
+1107;pondweed, perfoliate;Potamogeton;perfoliatus;Potamogetonaceae
+301;pondweed, long-stalked;Potamogeton;praelongus;Potamogetonaceae
+1451;pondweed, small;Potamogeton;pulcher;Potamogetonaceae
+537;pondweed, small;Potamogeton;pusillus;Potamogetonaceae
+174;pondweed, Richardson's;Potamogeton;richardsonii;Potamogetonaceae
+538;pondweed, Robbins';Potamogeton;robbinsii;Potamogetonaceae
+1452;pondweed, spiral;Potamogeton;spirillus;Potamogetonaceae
+707;pondweed, narrowleaf;Potamogeton;strictifolius;Potamogetonaceae
+1453;pondweed, Vasey's;Potamogeton;vaseyi;Potamogetonaceae
+540;pondweed, flatstem;Potamogeton;zosteriformis;Potamogetonaceae
+350;cinquefoil, silverweed;Potentilla;anserina, ssp. anserina;Rosaceae
+665;cinquefoil, silver;Potentilla;argentea;Rosaceae
+304;cinquefoil, northwest;Potentilla;gracilis;Rosaceae
+1088;cinquefoil, intermediate;Potentilla;intermedia;Rosaceae
+303;cinquefoil, Norwegian;Potentilla;norvegica;Rosaceae
+202;cinquefoil, erect;Potentilla;recta;Rosaceae
+1828;cinquefoil, creeping;Potentilla;reptans;Rosaceae
+1491;cinquefoil, oldfield;Potentilla;simplex;Rosaceae
+207;burnet, garden;Poterium;sanguisorba;Rosaceae
+1203;rattlesnake-root, white;Prenanthes;alba;Asteraceae
+1204;rattlesnake-root, rough;Prenanthes;aspera;Asteraceae
+1205;rattlesnake-root, nodding;Prenanthes;crepidinea;Asteraceae
+972;rattlesnake-root, purple;Prenanthes;racemosa;Asteraceae
+1082;primrose, Mistassini;Primula;mistassinica;Primulaceae
+1642;mermaidweed, marsh;Proserpinaca;palustris;Haloragaceae
+129;selfheal, common;Prunella;vulgaris;Lamiaceae
+778;plum, American;Prunus;americana;Rosaceae
+1493;plum, Canadian;Prunus;nigra;Rosaceae
+499;cherry, pin;Prunus;pensylvanica;Rosaceae
+1156;peach;Prunus;persica;Rosaceae
+779;cherry, sand;Prunus;pumila;Rosaceae
+1494;cherry, black;Prunus;serotina;Rosaceae
+1793;cherry, Appalachian dwarf;Prunus;susquehanae;Rosaceae
+1585;cherry, Nanking;Prunus;tomentosa;Rosaceae
+203;chokecherry, common;Prunus;virginiana;Rosaceae
+1392;cudweed, Heller's;Pseudognaphalium;helleri;Asteraceae
+973;cudweed, sticky;Pseudognaphalium;macounii;Asteraceae
+1829;tobacco, delicate rabbit;Pseudognaphalium;micradenium;Asteraceae
+1188;rabbit-tobacco, blunt-leaf;Pseudognaphalium;obtusifolium;Asteraceae
+1064;hoptree, common;Ptelea;trifoliata;Rutaceae
+81;pinedrops, woodland;Pterospora;andromedea;Ericaceae
+1648;mountain-mint, narrowleaf;Pycnanthemum;tenuifolium;Lamiaceae
+1356;mountain-mint, Virginia;Pycnanthemum;virginianum;Lamiaceae
+82;wintergreen, common;Pyrola;asarifolia;Ericaceae
+83;pyrola, green;Pyrola;chlorantha;Ericaceae
+84;wintergreen, white;Pyrola;elliptica;Ericaceae
+85;pyrola, snowline;Pyrola;minor;Ericaceae
+1458;wintergreen, American;Pyrola;rotundifolia;Ericaceae
+1305;oak, northern white;Quercus;alba;Fagaceae
+1306;oak, swamp white;Quercus;bicolor;Fagaceae
+1665;oak, scarlet;Quercus;coccinea;Fagaceae
+1307;oak, northern pin;Quercus;ellipsoidalis;Fagaceae
+780;oak, bur;Quercus;macrocarpa;Fagaceae
+1308;oak, chinkapin;Quercus;muehlenbergii;Fagaceae
+1641;oak, pin;Quercus;palustris;Fagaceae
+1309;oak, northern red;Quercus;rubra;Fagaceae
+1310;oak, black;Quercus;velutina;Fagaceae
+667;buttercup, littleleaf;Ranunculus;abortivus;Ranunculaceae
+183;buttercup, meadow;Ranunculus;acris;Ranunculaceae
+185;buttercup, white water;Ranunculus;aquatilis;Ranunculaceae
+186;buttercup, shore;Ranunculus;cymbalaria;Ranunculaceae
+1469;buttercup, early;Ranunculus;fascicularis;Ranunculaceae
+542;buttercup, yellow water;Ranunculus;flabellaris;Ranunculaceae
+187;buttercup, creeping;Ranunculus;flammula;Ranunculaceae
+543;buttercup, gmelin's;Ranunculus;gmelinii;Ranunculaceae
+1470;buttercup, bristly;Ranunculus;hispidus;Ranunculaceae
+1085;buttercup, Lapland;Ranunculus;lapponicus;Ranunculaceae
+669;buttercup, Pennsylvania;Ranunculus;pensylvanicus;Ranunculaceae
+1471;blisterwort;Ranunculus;recurvatus;Ranunculaceae
+188;buttercup, creeping;Ranunculus;repens;Ranunculaceae
+781;buttercup, prairie;Ranunculus;rhomboideus;Ranunculaceae
+189;buttercup, celeryleaved;Ranunculus;sceleratus;Ranunculaceae
+190;buttercup, hornseed;Ranunculus;testiculatus;Ranunculaceae
+544;radish, wild;Raphanus;raphanistrum;Brassicaceae
+545;radish, wild;Raphanus;sativus;Brassicaceae
+1496;bastard-cabbage, annual;Rapistrum;rugosum;Brassicaceae
+974;coneflower, upright prairie;Ratibida;columnifera;Asteraceae
+1206;Mexican-hat, gray head;Ratibida;pinnata;Asteraceae
+546;mignonette, yellow;Reseda;lutea;Resedaceae
+193;buckthorn, alder-leaf;Rhamnus;alnifolia;Rhamnaceae
+782;buckthorn, common;Rhamnus;cathartica;Rhamnaceae
+1670;buckthorn, lance leaved;Rhamnus;lanceolata;Rhamnaceae
+1653;meadow-beauty, Virginia;Rhexia;virginica;Melastomataceae
+547;yellowrattle, little;Rhinanthus;minor;Orobanchaceae
+448;tea, bog Labrador;Rhododendron;groenlandicum;Ericaceae
+1057;rosebay, Lappland;Rhododendron;lapponicum;Ericaceae
+1830;jetbead;Rhodotypos;scandens;Rosaceae
+1120;sumac, fragrant;Rhus;aromatica;Anacardiaceae
+1590;sumac, dwarf;Rhus;copallina;Anacardiaceae
+3;sumac, western;Rhus;glabra;Anacardiaceae
+1161;sumac, staghorn;Rhus;hirta;Anacardiaceae
+783;currant, American black;Ribes;americanum;Grossulariaceae
+1329;currant, buffalo;Ribes;aureum, var. villosum;Grossulariaceae
+1328;gooseberry, eastern prickly;Ribes;cynosbati;Grossulariaceae
+500;currant, skunk;Ribes;glandulosum;Grossulariaceae
+784;gooseberry, hairystem;Ribes;hirtellum;Grossulariaceae
+117;current, stinking;Ribes;hudsonianum;Grossulariaceae
+118;gooseberry, swamp;Ribes;lacustre;Grossulariaceae
+785;gooseberry, Missouri;Ribes;missouriense;Grossulariaceae
+335;currant, European black;Ribes;nigrum;Grossulariaceae
+508;gooseberry, northern;Ribes;oxyacanthoides;Grossulariaceae
+786;currant, cultivated;Ribes;rubrum;Grossulariaceae
+548;currant, red;Ribes;triste;Grossulariaceae
+1330;gooseberry, European;Ribes;uva-crispi;Grossulariaceae
+1066;locust, bristly;Robinia;hispida;Fabaceae
+100;locust, black;Robinia;pseudoacacia;Fabaceae
+1235;lakecress;Rorippa;aquatica;Brassicaceae
+710;yellowcress, Austrian;Rorippa;austriaca;Brassicaceae
+549;yellowcress, bog;Rorippa;palustris;Brassicaceae
+39;yellowcress, stalkless;Rorippa;sessiliflora;Brassicaceae
+41;yellowcress, spreading;Rorippa;sinuata;Brassicaceae
+550;yellowcress, creeping;Rorippa;sylvestris;Brassicaceae
+711;rose, prickly;Rosa;acicularis;Rosaceae
+787;rose, prairie;Rosa;arkansana;Rosaceae
+788;rose, smooth;Rosa;blanda;Rosaceae
+551;rose, dog;Rosa;canina;Rosaceae
+1680;rose, Carolina;Rosa;carolina;Rosaceae
+1831;rose, cinnamon;Rosa;cinnamomea;Rosaceae
+1745;rose, French;Rosa;gallica;Rosaceae
+552;rose, multiflora;Rosa;multiflora;Rosaceae
+1681;rose, swamp;Rosa;palustris;Rosaceae
+334;rose, sweetbriar;Rosa;rubiginosa;Rosaceae
+670;rose, rugosa;Rosa;rugosa;Rosaceae
+1682;rose, climbing;Rosa;setigera;Rosaceae
+1832;rose, Scots;Rosa;spinosissima;Rosaceae
+204;rose, Wood's;Rosa;woodsii;Rosaceae
+553;rotala, lowland;Rotala;ramosior;Lythraceae
+1089;blackberry, Allegheny;Rubus;allegheniensis;Rosaceae
+554;blackberry, arctic;Rubus;arcticus;Rosaceae
+1834;dewberry, European;Rubus;caesius;Rosaceae
+1746;blackberry, smooth;Rubus;canadensis;Rosaceae
+1795;dewberry;Rubus;celer;Rosaceae
+1499;dewberry, whiplash;Rubus;flagellaris;Rosaceae
+1833;dewberry, swamp;Rubus;hispidus;Rosaceae
+205;raspberry, red;Rubus;idaeus;Rosaceae
+1501;raspberry, black;Rubus;occidentalis;Rosaceae
+206;thimbleberry, western;Rubus;parviflorus;Rosaceae
+1502;blackberry, Penslyvania;Rubus;pensilvanicus;Rosaceae
+555;blackberry, dwarf red;Rubus;pubescens;Rosaceae
+1794;blackberry, elulsive;Rubus;quaesitus;Rosaceae
+1503;blackberry, setose;Rubus;setosus;Rosaceae
+1395;coneflower, orange;Rudbeckia;fulgida;Asteraceae
+975;blackeyed-Susan;Rudbeckia;hirta;Asteraceae
+976;coneflower, cutleaf;Rudbeckia;laciniata;Asteraceae
+1609;coneflower, sweet;Rudbeckia;subtomentosa;Asteraceae
+1069;browneyed-Susan;Rudbeckia;triloba;Asteraceae
+1108;petunia, fringe-leaf wild;Ruellia;humilis;Acanthaceae
+163;sorrel, garden;Rumex;acetosa;Polygonaceae
+164;sorrel, sheep;Rumex;acetosella;Polygonaceae
+557;dock, acute;Rumex;acutus X;Polygonaceae
+1067;dock, pale;Rumex;altissimus;Polygonaceae
+1444;dock, greater water;Rumex;britannica;Polygonaceae
+165;dock, curly;Rumex;crispus;Polygonaceae
+1782;dock, golden;Rumex;fueginus;Polygonaceae
+1443;dock, door-yard;Rumex;longifolius;Polygonaceae
+166;dock, broad-leaved;Rumex;obtusifolius;Polygonaceae
+167;dock, patience;Rumex;patientia;Polygonaceae
+168;dock, willow;Rumex;salicifolius;Polygonaceae
+789;dock, narrowleaf;Rumex;stenophyllus;Polygonaceae
+1835;sorrel, narrow-leaved;Rumex;thyrsiflorus;Polygonaceae
+306;dock, veiny;Rumex;venosus;Polygonaceae
+1445;dock, swamp;Rumex;verticillatus;Polygonaceae
+558;widgeongrass;Ruppia;maritima;Ruppiaceae
+1749;rose-gentian, square-stem;Sabatia;angularis;Gentianaceae
+559;pearlwort, birdeye;Sagina;procumbens;Caryophyllaceae
+1098;arrowhead, midwestern;Sagittaria;brevirostra;Alismataceae
+1117;arrowhead, crested;Sagittaria;cristata;Alismataceae
+120;wapato;Sagittaria;cuneata;Alismataceae
+1022;arrowhead, grassy;Sagittaria;graminea;Alismataceae
+561;arrowhead, broadleaf;Sagittaria;latifolia;Alismataceae
+560;arrowhead, hooded;Sagittaria;montevidensis;Alismataceae
+1118;arrowhead, sessile-fruit;Sagittaria;rigida;Alismataceae
+273;willow, white;Salix;alba;Salicaceae
+216;willow, peachleaf;Salix;amygdaloides;Salicaceae
+1837;willow, rusty;Salix;atrocinerea;Salicaceae
+217;willow, Bebb's;Salix;bebbiana;Salicaceae
+671;willow, sageleaf;Salix;candida;Salicaceae
+1836;willow, gray;Salix;cinerea;Salicaceae
+1750;willow, dune;Salix;cordata;Salicaceae
+791;willow, pussy;Salix;discolor;Salicaceae
+1838;willow, hoary;Salix;elaeagnos;Salicaceae
+792;willow, Missouri River;Salix;eriocephala;Salicaceae
+793;willow, crack;Salix;fragilis;Salicaceae
+1520;willow, prairie;Salix;humilis;Salicaceae
+1521;willow, sandbar;Salix;interior;Salicaceae
+1796;willow, shining;Salix;lucida;Salicaceae
+1522;willow, bayberry;Salix;myricoides;Salicaceae
+1523;willow, black;Salix;nigra;Salicaceae
+562;willow, bog;Salix;pedicellaris;Salicaceae
+1524;willow, satiny;Salix;pellita;Salicaceae
+796;willow, laurel;Salix;pentandra;Salicaceae
+797;willow, meadow;Salix;petiolaris;Salicaceae
+563;willow, diamondleaf;Salix;planifolia;Salicaceae
+1686;willow, purple;Salix;purpurea;Salicaceae
+1091;willow, balsam;Salix;pyrifolia;Salicaceae
+1094;willow, whitecrack;Salix;rubens X;Salicaceae
+1525;willow, silky;Salix;sericea;Salicaceae
+799;willow, autumn;Salix;serissima;Salicaceae
+790;thistle, slender Russian;Salsola;collina;Chenopodiaceae
+51;thistle, Russian;Salsola;tragus;Chenopodiaceae
+1070;sage, azure blue;Salvia;azurea;Lamiaceae
+794;sage, woodland;Salvia;nemorosa;Lamiaceae
+672;sage, introduced;Salvia;pratensis;Lamiaceae
+798;sage, lanceleaf;Salvia;reflexa;Lamiaceae
+1839;sage, splendid;Salvia;splendens;Lamiaceae
+795;elderberry;Sambucus;nigra;Adoxaceae
+59;elderberry, black or red;Sambucus;racemosa;Adoxaceae
+673;brookweed, seaside;Samolus;parviflorus;Theophrastaceae
+1426;bloodroot;Sanguinaria;canadensis;Papaveraceae
+1131;blacksnakeroot, Canadian;Sanicula;canadensis;Apiaceae
+674;sanicle, Maryland;Sanicula;marilandica;Apiaceae
+1132;blacksnakeroot, clustered;Sanicula;odorata;Apiaceae
+1134;blacksnakeroot, large-fruit;Sanicula;trifoliata;Apiaceae
+68;bett, bouncing;Saponaria;officinalis;Caryophyllaceae
+158;pitcher-plant, purple;Sarracenia;purpurea;Sarraceniaceae
+1650;sassafras;Sassafras;albidum;Lauraceae
+1697;savory, summer;Satureja;hortensis;Lamiaceae
+1374;squill, Siberian;Scilla;siberica;Liliaceae
+307;knawel;Scleranthus;annuus;Caryophyllaceae
+1586;knawel, perennial;Scleranthus;perennis;Caryophyllaceae
+230;figwort, lanceleaf;Scrophularia;lanceolata;Scrophulariaceae
+1550;carpenter's-square;Scrophularia;marilandica;Scrophulariaceae
+130;skullcap, marsh;Scutellaria;galericulata;Lamiaceae
+565;skullcap, blue;Scutellaria;lateriflora;Lamiaceae
+1359;skullcap, heart-leaf;Scutellaria;ovata;Lamiaceae
+1358;skullcap, small;Scutellaria;parvula;Lamiaceae
+424;wallpepper;Sedum;acre;Crassulaceae
+1840;stonecrop, European;Sedum;ochroleucum;Crassulaceae
+1616;stonecrop, stringy;Sedum;sarmentosum;Crassulaceae
+981;ragwort, woodland;Senecio;sylvaticus;Asteraceae
+1031;ragwort, sticky;Senecio;viscosus;Asteraceae
+982;groundsel, common;Senecio;vulgaris;Asteraceae
+1497;sensitiveplant, American wild;Senna;hebecarpa;Fabaceae
+1628;sensitiveplant, Maryland wild;Senna;marilandica;Fabaceae
+1498;coffee-weed;Senna;obtusifolia;Fabaceae
+566;buffaloberry, silver;Shepherdia;argentea;Elaeagnaceae
+76;buffaloberry, russet;Shepherdia;canadensis;Elaeagnaceae
+1505;fivefingers, shrubby;Sibbaldiopsis;tridentata;Rosaceae
+1272;cucumber, one-seed burr;Sicyos;angulatus;Cucurbitaceae
+69;cat, sleepy;Silene;antirrhina;Caryophyllaceae
+1055;maltese-cross;Silene;chalcedonica;Caryophyllaceae
+653;campion, rose;Silene;coronaria;Caryophyllaceae
+801;catchfly, Balkan;Silene;csereii;Caryophyllaceae
+567;silene, dichotoma;Silene;dichotoma;Caryophyllaceae
+760;robin, ragged;Silene;flos-cuculi;Caryophyllaceae
+67;campion, white;Silene;latifolia;Caryophyllaceae
+1255;catchfly, snowy;Silene;nivea;Caryophyllaceae
+568;silene, nightflowering;Silene;noctiflora;Caryophyllaceae
+1736;catchfly, royal;Silene;regia;Caryophyllaceae
+1256;widow's-frill;Silene;stellata;Caryophyllaceae
+1619;firepink;Silene;virginica;Caryophyllaceae
+1581;campion, clammy;Silene;viscaria;Caryophyllaceae
+70;campion, bladder;Silene;vulgaris;Caryophyllaceae
+983;rosinweed, wholeleaf;Silphium;integrifolium;Asteraceae
+1072;compassplant;Silphium;laciniatum;Asteraceae
+1208;cup-plant;Silphium;perfoliatum;Asteraceae
+1610;dock, prairie;Silphium;terebinthinaceum;Asteraceae
+569;mustard, white;Sinapis;alba;Brassicaceae
+259;mustard, wild;Sinapis;arvensis;Brassicaceae
+42;mustard, tumble;Sisymbrium;altissimum;Brassicaceae
+570;mustard, small tumbleweed;Sisymbrium;loeselii;Brassicaceae
+571;hedgemustard;Sisymbrium;officinale;Brassicaceae
+1691;blue-eyed grass, white;Sisyrinchium;albidum;Iridaceae
+123;blue-eyed-grass, narrowleaf;Sisyrinchium;angustifolium;Iridaceae
+1693;blue-eyed grass, eastern;Sisyrinchium;atlanticum;Iridaceae
+1340;blue-eyed-grass, prairie;Sisyrinchium;campestre;Iridaceae
+713;blue-eyed-grass, mountain;Sisyrinchium;montanum;Iridaceae
+1341;blue-eyed-grass, needle tip;Sisyrinchium;mucronatum;Iridaceae
+572;waterparsnip, hemlock;Sium;suave;Apiaceae
+1553;carrionflower, upright;Smilax;ecirrhata;Smilacaceae
+802;carrionflower, smooth;Smilax;herbacea;Smilacaceae
+1554;greenbrier, Illinois;Smilax;illinoensis;Smilacaceae
+851;carrionflower, Blue Ridge;Smilax;lasioneura;Smilacaceae
+1555;Chinaroot;Smilax;tamnoides;Smilacaceae
+573;horsenettle, Carolina;Solanum;carolinense;Solanaceae
+242;nightshade, bitter;Solanum;dulcamara;Solanaceae
+428;nightshade, hairy;Solanum;physalifolium;Solanaceae
+676;nightshade, black;Solanum;ptycanthum;Solanaceae
+574;nightshade, buffalobur;Solanum;rostratum;Solanaceae
+1408;goldenrod, white;Solidago;bicolor;Asteraceae
+1419;goldenrod, wreath;Solidago;caesia;Asteraceae
+984;goldenrod, meadow;Solidago;canadensis;Asteraceae
+1209;goldenrod, zigzag;Solidago;flexicaulis;Asteraceae
+985;goldenrod, smooth;Solidago;gigantea;Asteraceae
+1210;goldenrod, hairy;Solidago;hispida;Asteraceae
+1211;goldenrod, early;Solidago;juncea;Asteraceae
+986;goldenrod, Missouri;Solidago;missouriensis;Asteraceae
+987;goldenrod, velvety;Solidago;mollis;Asteraceae
+988;goldenrod, Dyersweed;Solidago;nemoralis;Asteraceae
+1454;goldenrod, Ohio;Solidago;ohioensis;Asteraceae
+1611;goldenrod, roundleaf;Solidago;patula;Asteraceae
+968;oligoneuron, white;Solidago;ptarmicoides;Asteraceae
+1212;goldenrod, Riddell's flat-top;Solidago;riddellii;Asteraceae
+969;oligoneuron, rigid;Solidago;rigida;Asteraceae
+989;goldenrod, wrinkleleaf;Solidago;rugosa;Asteraceae
+1213;goldenrod, shadowy;Solidago;sciaphila;Asteraceae
+1841;goldenrod, seaside;Solidago;sempervirens;Asteraceae
+990;goldenrod, Mt. Albert;Solidago;simplex;Asteraceae
+991;goldenrod, showy;Solidago;speciosa;Asteraceae
+992;goldenrod, bog;Solidago;uliginosa;Asteraceae
+1214;goldenrod, elm leaf;Solidago;ulmifolia;Asteraceae
+993;sow-thistle, field;Sonchus;arvensis;Asteraceae
+994;sow-thistle, prickly;Sonchus;asper;Asteraceae
+995;sow-thistle, common;Sonchus;oleraceus;Asteraceae
+1506;spiraea, false;Sorbaria;sorbifolia;Rosaceae
+1507;ash, American mountain;Sorbus;americana;Rosaceae
+677;ash, European mountain;Sorbus;aucuparia;Rosaceae
+1508;ash, northern mountain;Sorbus;decora;Rosaceae
+1558;bur-reed, American;Sparganium;americanum;Typhaceae
+678;bur-reed, branched;Sparganium;androcladum;Typhaceae
+244;bur-reed, simplestem;Sparganium;angustifolium;Typhaceae
+243;bur-reed, simplestem;Sparganium;emersum;Typhaceae
+575;bur-reed, broadfruit;Sparganium;eurycarpum;Typhaceae
+679;bur-reed, floating;Sparganium;fluctuans;Typhaceae
+1559;bur-reed, clustered;Sparganium;glomeratum;Typhaceae
+308;bur-reed, small;Sparganium;natans;Typhaceae
+309;stickwort;Spergula;arvense;Caryophyllaceae
+577;sandspurry, salt;Spergularia;marina;Caryophyllaceae
+576;sandspurry, media;Spergularia;media;Caryophyllaceae
+71;sandspurry, red;Spergularia;rubra;Caryophyllaceae
+1509;meadowsweet, white;Spiraea;alba;Rosaceae
+1510;steeplebush;Spiraea;tomentosa;Rosaceae
+1421;ladies-tresses, Case's;Spiranthes;casei;Orchidaceae
+1422;ladies-tresses, white nodding;Spiranthes;cernua;Orchidaceae
+1423;ladies-tresses, northern slender;Spiranthes;lacera;Orchidaceae
+1706;ladies-tresses, shining;Spiranthes;lucida;Orchidaceae
+1424;ladies-tresses, Great Plains;Spiranthes;magnicamporum;Orchidaceae
+1707;ladies-tresses, October;Spiranthes;ovalis;Orchidaceae
+154;ladies-tresses, western;Spiranthes;romanzoffiana;Orchidaceae
+136;duckweed, giant;Spirodela;polyrrhiza;Araceae
+1783;woundwort;Stachys;palustris;Lamiaceae
+329;hedgenettle, marsh;Stachys;pilosa;Lamiaceae
+1360;hedgenettle, smooth;Stachys;tenuifolia;Lamiaceae
+1560;bladdernut, American;Staphylea;trifolia;Staphyleaceae
+578;starwort, boreal;Stellaria;borealis;Caryophyllaceae
+714;starwort, fleshy;Stellaria;crassifolia;Caryophyllaceae
+310;starwort, lesser;Stellaria;graminea;Caryophyllaceae
+1587;adder's-meat;Stellaria;holostea;Caryophyllaceae
+72;starwort, longleaved;Stellaria;longifolia;Caryophyllaceae
+73;starwort, longstalk;Stellaria;longipes;Caryophyllaceae
+74;chickweed;Stellaria;media;Caryophyllaceae
+1599;chickweed, European;Stellaria;palustris;Caryophyllaceae
+133;twistedstalk, claspleaf;Streptopus;amplexifolius;Liliaceae
+330;twistedstalk, rosy;Streptopus;lanceolatus;Liliaceae
+1303;fuzzybean, trailing;Strophostyles;helvula;Fabaceae
+1074;fuzzybean, slick seed;Strophostyles;leiosperma;Fabaceae
+532;pondweed, fineleaf;Stuckenia;filiformis;Potamogetonaceae
+536;pondweed, sago;Stuckenia;pectinata;Potamogetonaceae
+539;pondweed, sheathed;Stuckenia;vaginata;Potamogetonaceae
+579;seepweed, Pursh's;Suaeda;calceoliformis;Chenopodiaceae
+1531;coolwort, Sullivant's;Sullivantia;sullivantii;Saxifragaceae
+60;snowberry, common;Symphoricarpos;albus;Caprifoliaceae
+580;snowberry, western;Symphoricarpos;occidentalis;Caprifoliaceae
+1075;coralberry;Symphoricarpos;orbiculatus;Caprifoliaceae
+874;aster, rush;Symphyotrichum;boreale;Asteraceae
+889;aster, alkali rayless;Symphyotrichum;ciliatum;Asteraceae
+875;aster, Lindley;Symphyotrichum;ciliolatum;Asteraceae
+1157;aster, common blue wood;Symphyotrichum;cordifolium;Asteraceae
+1158;aster, Drummond's;Symphyotrichum;drummondii;Asteraceae
+1312;aster, rice-button;Symphyotrichum;dumosum;Asteraceae
+373;aster, white;Symphyotrichum;ericoides;Asteraceae
+876;aster, cluster;Symphyotrichum;falcatum;Asteraceae
+877;aster, smooth;Symphyotrichum;laeve;Asteraceae
+879;aster, willow;Symphyotrichum;lanceolatum, ssp. hesperium;Asteraceae
+878;aster, white panicle;Symphyotrichum;lanceolatum, ssp. lanceolatum;Asteraceae
+1159;aster, calico;Symphyotrichum;lateriflorum;Asteraceae
+880;aster, New England;Symphyotrichum;novae-angliae;Asteraceae
+881;aster, aromatic;Symphyotrichum;oblongifolium;Asteraceae
+1162;aster, bottomland;Symphyotrichum;ontarionis;Asteraceae
+1163;aster, skyblue;Symphyotrichum;oolentangiensis;Asteraceae
+446;aster, hairy white;Symphyotrichum;pilosum;Asteraceae
+1015;aster, willowleaf;Symphyotrichum;praealtum;Asteraceae
+1164;aster, crookedstem;Symphyotrichum;prenanthoides;Asteraceae
+453;aster, bristly;Symphyotrichum;puniceum;Asteraceae
+1313;aster, fragile-stemmed;Symphyotrichum;racemosum;Asteraceae
+1784;aster, Robyn's;Symphyotrichum;robynsianum;Asteraceae
+1166;aster, western silver;Symphyotrichum;sericeum;Asteraceae
+1167;aster, Short's;Symphyotrichum;shortii;Asteraceae
+1083;aster, annual saltmarsh;Symphyotrichum;subulatum;Asteraceae
+1582;aster, white arrow American;Symphyotrichum;urophyllum;Asteraceae
+1842;comfrey, prickly;Symphytum;asperum;Boraginaceae
+582;comfrey, common;Symphytum;officinale;Boraginaceae
+581;comfrey, prickly;Symphytum;uplandicum;Boraginaceae
+1141;skunk-cabbage;Symplocarpus;foetidus;Araceae
+141;lilac;Syringa;vulgaris;Oleaceae
+1135;yellow-pimpernel;Taenidia;integerrima;Apiaceae
+882;costmary;Tanacetum;balsamita;Asteraceae
+1456;tansy, dune;Tanacetum;bipinnatum;Asteraceae
+996;feverfew;Tanacetum;parthenium;Asteraceae
+997;tansy, common;Tanacetum;vulgare;Asteraceae
+998;dandelion, red-seeded;Taraxacum;erythrospermum;Asteraceae
+999;dandelion, common;Taraxacum;officinale;Asteraceae
+1583;pinkqueen;Tarenaya;hassleriana;Cleomaceae
+908;fleabane, marsh;Tephroseris;palustris;Asteraceae
+1304;goat's-rue;Tephrosia;virginiana;Fabaceae
+1223;spinach, New Zealand;Tetragonia;tetragonioides;Aizoaceae
+311;germander;Teucrium;canadense;Lamiaceae
+680;meadowrue, purple;Thalictrum;dasycarpum;Ranunculaceae
+1472;meadowrue, early;Thalictrum;dioicum;Ranunculaceae
+852;meadowrue, waxyleaf;Thalictrum;revolutum;Ranunculaceae
+1473;rue-anemone;Thalictrum;thalictroides;Ranunculaceae
+192;meadowrue, veiny;Thalictrum;venulosum;Ranunculaceae
+1136;meadow-parsnip, hairy-joint;Thaspium;barbinode;Apiaceae
+1725;meadow-parsnip, smooth;Thaspium;trifoliatum;Apiaceae
+101;pea, golden;Thermopsis;rhombifolia;Fabaceae
+1785;gourd, Manchu tuber;Thladiantha;dubia;Cucurbitaceae
+43;pennycress, field;Thlaspi;arvense;Brassicaceae
+1051;Spurge-flax;Thymelaea;passerina;Thymelaeaceae
+583;thyme, mother of;Thymus;praecox;Lamiaceae
+1532;foamflower, heartleaf;Tiarella;cordifolia;Saxifragaceae
+1562;basswood, American or linden;Tilia;americana;Tiliaceae
+585;hedgeparsley, erect;Torilis;japonica;Apiaceae
+4;ivy, poison;Toxicodendron;radicans;Anacardiaceae
+803;ivy, western poison;Toxicodendron;rydbergii;Anacardiaceae
+1121;sumac, poison;Toxicodendron;vernix;Anacardiaceae
+853;spiderwort, longbract;Tradescantia;bracteata;Commelinaceae
+854;spiderwort, prairie;Tradescantia;occidentalis;Commelinaceae
+1264;bluejacket;Tradescantia;ohiensis;Commelinaceae
+1001;salsify, yellow;Tragopogon;dubius;Asteraceae
+1002;salsify;Tragopogon;porrifolius;Asteraceae
+1003;salsify, meadow;Tragopogon;pratensis;Asteraceae
+224;St. John's wort, marsh;Triadenum;fraseri;Hypericaceae
+1843;St. John's wort, Virginia;Triadenum;Virginicum;Hypericaceae
+584;tofieldia, glutin;Triantha;glutinosa;Tofieldiaceae
+253;vine, puncture;Tribulus;terrestris;Zygophyllaceae
+1350;pennyroyal, false;Trichostema;brachiatus;Lamiaceae
+176;starflower, broadleaved;Trientalis;borealis;Myrsinaceae
+586;clover, rabbitfoot;Trifolium;arvense;Fabaceae
+102;clover, yellow;Trifolium;aureum;Fabaceae
+587;clover, field;Trifolium;campestre;Fabaceae
+103;clover, suckling;Trifolium;dubium;Fabaceae
+104;clover, strawberry;Trifolium;fragiferum;Fabaceae
+105;clover, alsike;Trifolium;hybridum;Fabaceae
+588;clover, crimson;Trifolium;incarnatum;Fabaceae
+107;clover, red;Trifolium;pratense;Fabaceae
+108;clover, white;Trifolium;repens;Fabaceae
+1375;whip-poor-will-flower;Trillium;cernuum;Melanthiaceae
+1718;trillium, purple;Trillium;erectum;Melanthiaceae
+1376;wakerobin, nodding;Trillium;flexipes;Melanthiaceae
+1377;wakerobin, large flower;Trillium;grandiflorum;Melanthiaceae
+1378;wakerobin, dwarf white;Trillium;nivale;Melanthiaceae
+1703;wakerobin;Trillium;recurvatum;Melanthiaceae
+45;lookingglass, Venus';Triodanis;perfoliata;Campanulaceae
+1251;horse-gentian, orange fruit;Triosteum;aurantiacum;Caprifoliaceae
+1252;feverwort;Triosteum;perfoliatum;Caprifoliaceae
+1719;threebirds;Triphora;trianthophora;Orchidaceae
+27;mustard, tower;Turritis;glabra;Brassicaceae
+1005;coltsfoot;Tussilago;farfara;Asteraceae
+590;cattail, narrowleaf;Typha;angustifolia;Typhaceae
+591;cattail, southern;Typha;domingensis;Typhaceae
+592;cattail, white;Typha;glauca X;Typhaceae
+245;cattail, common;Typha;latifolia;Typhaceae
+246;elm, American;Ulmus;americana;Ulmaceae
+589;elm, Siberian;Ulmus;pumila;Ulmaceae
+1563;elm, slippery;Ulmus;rubra;Ulmaceae
+1564;elm, rock;Ulmus;thomasii;Ulmaceae
+248;nettle, stinging;Urtica;dioica;Urticaceae
+1363;bladderwort, horned;Utricularia;cornuta;Lentibulariaceae
+1698;bladderwort, hidden-fruited;Utricularia;geminiscapa;Lentibulariaceae
+593;bladderwort, humped;Utricularia;gibba;Lentibulariaceae
+594;bladderwort, flatleaf;Utricularia;intermedia;Lentibulariaceae
+312;bladderwort, common;Utricularia;macrorhiza;Lentibulariaceae
+595;bladderwort, lesser;Utricularia;minor;Lentibulariaceae
+1364;bladderwort, purple;Utricularia;purpurea;Lentibulariaceae
+1365;bladderwort, lavender;Utricularia;resupinata;Lentibulariaceae
+1798;bladderwort;Utricularia;subulata;Lentibulariaceae
+1379;bellwort, large flower;Uvularia;grandiflora;Liliaceae
+1380;bellwort, sessile-leaf;Uvularia;sessilifolia;Liliaceae
+313;cow-cockle;Vaccaria;hispanica;Caryophyllaceae
+1282;blueberry, late lowbush;Vaccinium;angustifolium;Ericaceae
+88;huckleberry, dwarf;Vaccinium;cespitosum;Ericaceae
+1637;blueberry, highbush;Vaccinium;corymbosum;Ericaceae
+681;cranberry;Vaccinium;macrocarpon;Ericaceae
+682;huckleberry, velvetleaf;Vaccinium;myrtilloides;Ericaceae
+597;cranberry, small;Vaccinium;oxycoccos;Ericaceae
+1740;blueberry, hillside;Vaccinium;pallidum;Ericaceae
+507;lingonberry;Vaccinium;vitis-idaea;Ericaceae
+249;valerian, edible;Valeriana;edulis;Valerianaceae
+598;valerian, garden;Valeriana;officinalis;Valerianaceae
+1764;valerian, marsh;Valeriana;uliginosa;Valerianaceae
+1766;corn-salad, Great Lakes;Valerianella;chenopodiifolia;Valerianaceae
+600;eelgrass, American;Vallisneria;americana;Hydrocharitaceae
+232;mullein, moth;Verbascum;blattaria;Scrophulariaceae
+1756;mullein, dense-flowered;Verbascum;densiflorum;Scrophulariaceae
+1551;mullein, black;Verbascum;nigrum;Scrophulariaceae
+601;mullein, orange;Verbascum;phlomoides;Scrophulariaceae
+233;mullein, flannel;Verbascum;thapsus;Scrophulariaceae
+250;vervain, bracted;Verbena;bracteata;Verbenaceae
+314;hyssop, wild;Verbena;hastata;Verbenaceae
+1569;vervain, narrowleaf;Verbena;simplex;Verbenaceae
+684;verbena, hoary;Verbena;stricta;Verbenaceae
+1570;vervain, white;Verbena;urticifolia;Verbenaceae
+1612;wingstem;Verbesina;alternifolia;Asteraceae
+1076;ironweed, Baldwin's;Vernonia;baldwinii;Asteraceae
+1006;ironweed, prairie;Vernonia;fasciculata;Asteraceae
+234;speedwell, American;Veronica;americana;Plantaginaceae
+235;speedwell, water;Veronica;anagallis-aquatica;Plantaginaceae
+236;speedwell, common;Veronica;arvensis;Plantaginaceae
+1757;speedwell, broad-leaf;Veronica;austriaca;Plantaginaceae
+1845;speedwell, heartleaf;Veronica;bachofenii;Plantaginaceae
+1759;speedwell, European;Veronica;beccabunga;Plantaginaceae
+603;speedwell, germander;Veronica;chamaedrys;Plantaginaceae
+1844;speedwell, Dillen's;Veronica;dillenii;Plantaginaceae
+685;speedwell, ivyleaf;Veronica;hederifolia;Plantaginaceae
+315;speedwell, long-leaf;Veronica;longifolia;Plantaginaceae
+237;speedwell, common;Veronica;officinalis;Plantaginaceae
+238;speedwell, purslane;Veronica;peregrina;Plantaginaceae
+604;speedwell, birdeye;Veronica;persica;Plantaginaceae
+1077;speedwell, gray field;Veronica;polita;Plantaginaceae
+239;speedwell, skullcap;Veronica;scutellata;Plantaginaceae
+240;speedwell, thyme-leaved;Veronica;serpyllifolia;Plantaginaceae
+316;speedwell, spring;Veronica;verna;Plantaginaceae
+1552;culver's-root;Veronicastrum;virginicum;Plantaginaceae
+1546;viburnum, maple-leaved;Viburnum;acerifolium;Caprifoliaceae
+1617;arrowwood, southern;Viburnum;dentatum;Caprifoliaceae
+326;viburnum, mooseberry or squashberry;Viburnum;edule;Adoxaceae
+855;wayfaringtree;Viburnum;lantana;Adoxaceae
+805;nannyberry;Viburnum;lentago;Adoxaceae
+1557;possum-haw;Viburnum;nudum;Caprifoliaceae
+686;cranberry, European high-bush;Viburnum;opulus;Adoxaceae
+1618;blackhaw, smooth;Viburnum;prunifolium;Caprifoliaceae
+1250;arrowwood, downy;Viburnum;rafinesquinanum;Caprifoliaceae
+1797;cranberry, American high-bush;Viburnum;trilobum;Adoxaceae
+109;vetch, American;Vicia;americana;Fabaceae
+1649;vetch, Carolina;Vicia;caroliniana;Fabaceae
+328;vetch, bird;Vicia;cracca;Fabaceae
+110;vetch, tiny;Vicia;hirsuta;Fabaceae
+111;vetch, common;Vicia;sativa;Fabaceae
+605;vetch, lentil;Vicia;tetrasperma;Fabaceae
+606;vetch, winter;Vicia;villosa;Fabaceae
+452;periwinkle, common;Vinca;minor;Apocynaceae
+317;violet, hooked spur;Viola;adunca;Violaceae
+804;violet, sand;Viola;affinis;Violaceae
+318;pansy, European field;Viola;arvensis;Violaceae
+1572;violet, sweet white;Viola;blanda;Violaceae
+251;violet, Canada;Viola;canadensis;Violaceae
+1573;violet, marsh blue;Viola;cucullata;Violaceae
+1078;violet, alpine;Viola;labradorica;Violaceae
+607;violet, bog white;Viola;lanceolata;Violaceae
+319;violet, Macloskey's;Viola;macloskeyi;Violaceae
+320;violet, bog;Viola;nephrophylla;Violaceae
+1574;violet, New England blue;Viola;novae-angliae;Violaceae
+608;violet, sweet;Viola;odorata;Violaceae
+1575;violet, bird foot;Viola;pedata;Violaceae
+806;violet, prairie;Viola;pedatifida;Violaceae
+856;violet, downy yellow;Viola;pubescens;Violaceae
+715;violet, white;Viola;renifolia;Violaceae
+1767;violet, long-spurred;Viola;rostrata;Violaceae
+1576;violet, arrow-leaf;Viola;sagittata;Violaceae
+1079;violet, Selkirk's;Viola;selkirkii;Violaceae
+807;violet, common blue;Viola;sororia;Violaceae
+1700;violet, striped cream;Viola;striata;Violaceae
+609;johnny-jumpup;Viola;tricolor;Violaceae
+1579;grape, summer;Vitis;aestivalis;Vitaceae
+1768;grape, fox;Vitis;labrusca;Vitaceae
+610;grape, riverbank;Vitis;riparia;Vitaceae
+611;watermeal, northern;Wolffia;borealis;Araceae
+612;watermeal, Brazilian;Wolffia;brasiliensis;Araceae
+613;watermeal, Columbian;Wolffia;columbiana;Araceae
+687;mudmidget, Florida;Wolffiella;gladiata;Araceae
+1007;cocklebur, spiny;Xanthium;spinosum;Asteraceae
+1008;cocklebur, common;Xanthium;strumarium;Asteraceae
+1710;Adam's-neeedle;Yucca;filamentosa;Agavaceae
+614;pondweed, horned;Zannichellia;palustris;Zannichelliaceae
+1517;toothache-tree;Zanthoxylum;americanum;Rutaceae
+615;zizia, meadow;Zizia;aptera;Apiaceae
+808;zizia, golden;Zizia;aurea;Apiaceae
